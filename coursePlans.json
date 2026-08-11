@@ -6603,7 +6603,6 @@
                 "name": "Lesson 1.",
                 "topics": "Units and Measurements",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "dimensional_analysis": 0.85,
                     "estimates_and_fermi_calculations": 0.85,
@@ -6611,107 +6610,189 @@
                     "the_scope_and_scale_of_physics": 0.85,
                     "unit_conversion": 0.85,
                     "units_and_standards": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch01-intro",
+                    "physics7a-1.1",
+                    "physics7a-1.2",
+                    "physics7a-1.3",
+                    "physics7a-1.4",
+                    "physics7a-1.5",
+                    "physics7a-1.6",
+                    "physics7a-1.7"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "4oTEsca2-NDDN-cMzRFxlcLd",
                 "name": "Lesson 2.",
                 "topics": "Vectors",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "algebra_of_vectors": 0.85,
                     "coordinate_systems_and_components_of_a_vector": 0.85,
                     "products_of_vectors": 0.85,
                     "scalars_and_vectors": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch02-intro",
+                    "physics7a-2.1",
+                    "physics7a-2.2",
+                    "physics7a-2.3",
+                    "physics7a-2.4"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "47ns8aMI-Jp12-LTlHMlhpLW",
                 "name": "Lesson 3.",
                 "topics": "Motion Along a Straight Line",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "and_velocity": 0.85,
                     "average_and_instantaneous_acceleration": 0.85,
                     "displacement": 0.85,
                     "position": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch03-intro",
+                    "physics7a-3.1",
+                    "physics7a-3.2",
+                    "physics7a-3.3",
+                    "physics7a-3.4",
+                    "physics7a-3.5",
+                    "physics7a-3.6"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "53bLL1r1-MEcW-heRy7FiGAQ",
                 "name": "Lesson 4.",
                 "topics": "Motion in Two and Three Dimensions",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "acceleration_vector": 0.85,
                     "displacement_and_velocity_vectors": 0.85,
                     "projectile_motion": 0.85,
                     "relative_motion_in_one_and_two_dimensions": 0.85,
                     "uniform_and_nonuniform_circular_motion": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch04-intro",
+                    "physics7a-4.1",
+                    "physics7a-4.2",
+                    "physics7a-4.3",
+                    "physics7a-4.4",
+                    "physics7a-4.5"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "3C96mKdN-tIz7-uhQMP0Au37",
                 "name": "Lesson 5.",
                 "topics": "Newton's Laws of Motion",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "common_forces": 0.85,
                     "forces": 0.85,
                     "mass_and_weight": 0.85,
                     "newton's_second_law": 0.85,
                     "newton's_third_law": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch05-intro",
+                    "physics7a-5.1",
+                    "physics7a-5.2",
+                    "physics7a-5.3",
+                    "physics7a-5.4",
+                    "physics7a-5.5",
+                    "physics7a-5.6",
+                    "physics7a-5.7"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "4JfxkwTj-n5DF-mKcgeeBXhr",
                 "name": "Lesson 6.",
                 "topics": "Applications of Newton's Laws",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "centripetal_force": 0.85,
                     "drag_force_and_terminal_speed": 0.85,
                     "friction": 0.85,
                     "solving_problems_with_newton's_laws": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch06-intro",
+                    "physics7a-6.1",
+                    "physics7a-6.2",
+                    "physics7a-6.3",
+                    "physics7a-6.4"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "68r8ygkZ-MEvF-qXRb1wwwJE",
                 "name": "Lesson 7.",
                 "topics": "Work and Kinetic Energy",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "kinetic_energy": 0.85,
                     "power": 0.85,
                     "work": 0.85,
                     "work_energy_theorem": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch07-intro",
+                    "physics7a-7.1",
+                    "physics7a-7.2",
+                    "physics7a-7.3",
+                    "physics7a-7.4"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "061g3UpK-5QwA-cLMmtyTMf1",
                 "name": "Lesson 8.",
                 "topics": "Potential Energy and Conservation of Energy",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "conservation_of_energy": 0.85,
                     "conservative_and_non_conservative_forces": 0.85,
                     "potential_energy_diagrams_and_stability": 0.85,
                     "potential_energy_of_a_system": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch08-intro",
+                    "physics7a-8.1",
+                    "physics7a-8.2",
+                    "physics7a-8.3",
+                    "physics7a-8.4",
+                    "physics7a-8.5"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "5UJgIMFD-Ehqd-ZN61gFjmqR",
                 "name": "Lesson 9.",
                 "topics": "Linear Momentum and Collisions",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "center_of_mass": 0.85,
                     "collisions_in_multiple_dimensions": 0.85,
@@ -6720,14 +6801,26 @@
                     "linear_momentum": 0.85,
                     "rocket_propulsion": 0.85,
                     "types_of_collisions": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch09-intro",
+                    "physics7a-9.1",
+                    "physics7a-9.2",
+                    "physics7a-9.3",
+                    "physics7a-9.4",
+                    "physics7a-9.5",
+                    "physics7a-9.6",
+                    "physics7a-9.7"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "7FpFxmKN-oemN-iRunlrgAeA",
                 "name": "Lesson 10.",
                 "topics": "Fixed-Axis Rotation",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "moment_of_inertia_and_rotational_kinetic_energy": 0.85,
                     "newton's_second_law_for_rotation": 0.85,
@@ -6736,40 +6829,71 @@
                     "rotational_variables": 0.85,
                     "torque": 0.85,
                     "work_and_power_for_rotational_motion": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch10-intro",
+                    "physics7a-10.1",
+                    "physics7a-10.2",
+                    "physics7a-10.3",
+                    "physics7a-10.4",
+                    "physics7a-10.5",
+                    "physics7a-10.6",
+                    "physics7a-10.7",
+                    "physics7a-10.8"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "5FiLnTmy-681F-cOKWOB6xGR",
                 "name": "Lesson 11.",
                 "topics": "Angular Momentum",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "angular_momentum": 0.85,
                     "conservation_of_angular_momentum": 0.85,
                     "precession_of_a_gyroscope": 0.85,
                     "rolling_motion": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch11-intro",
+                    "physics7a-11.1",
+                    "physics7a-11.2",
+                    "physics7a-11.3",
+                    "physics7a-11.4"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "2ECjX9Vw-KeiD-rNp6xA3qJc",
                 "name": "Lesson 12.",
                 "topics": "Static Equilibrium and Elasticity",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "and_elastic_modulus": 0.85,
                     "conditions_for_static_equilibrium": 0.85,
                     "strain": 0.85,
                     "stress": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch12-intro",
+                    "physics7a-12.1",
+                    "physics7a-12.2",
+                    "physics7a-12.3",
+                    "physics7a-12.4"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "7jCQK5fd-RVlF-s9oalMyhL3",
                 "name": "Lesson 13.",
                 "topics": "Gravitation",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "einstein's_theory_of_gravity": 0.85,
                     "gravitation_near_earth's_surface": 0.85,
@@ -6777,14 +6901,26 @@
                     "kepler's_laws_of_planetary_motion": 0.85,
                     "newton's_law_of_universal_gravitation": 0.85,
                     "satellite_orbits_and_energy": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch13-intro",
+                    "physics7a-13.1",
+                    "physics7a-13.2",
+                    "physics7a-13.3",
+                    "physics7a-13.4",
+                    "physics7a-13.5",
+                    "physics7a-13.6",
+                    "physics7a-13.7"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "1ybfYDge-yejZ-XRzeNgVpOW",
                 "name": "Lesson 14.",
                 "topics": "Fluid Mechanics",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "and_pressure": 0.85,
                     "archimedes'_principle_and_buoyancy": 0.85,
@@ -6795,14 +6931,26 @@
                     "measuring_pressure": 0.85,
                     "pascal's_principle_and_hydraulics": 0.85,
                     "viscosity_and_turbulence": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch14-intro",
+                    "physics7a-14.1",
+                    "physics7a-14.2",
+                    "physics7a-14.3",
+                    "physics7a-14.4",
+                    "physics7a-14.5",
+                    "physics7a-14.6",
+                    "physics7a-14.7"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "7m2GFfKH-beYo-Q4EYErX3cQ",
                 "name": "Lesson 15.",
                 "topics": "Oscillations",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "comparing_simple_harmonic_motion_and_circular_motion": 0.85,
                     "damped_oscillations": 0.85,
@@ -6810,14 +6958,25 @@
                     "forced_oscillations": 0.85,
                     "pendulums": 0.85,
                     "simple_harmonic_motion": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch15-intro",
+                    "physics7a-15.1",
+                    "physics7a-15.2",
+                    "physics7a-15.3",
+                    "physics7a-15.4",
+                    "physics7a-15.5",
+                    "physics7a-15.6"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "22frvkVk-Jb2A-arrYqnmSVm",
                 "name": "Lesson 16.",
                 "topics": "Waves",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "energy_and_power_of_a_wave": 0.85,
                     "interference_of_waves": 0.85,
@@ -6825,14 +6984,25 @@
                     "standing_waves_and_resonance": 0.85,
                     "traveling_waves": 0.85,
                     "wave_speed_on_a_stretched_string": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch16-intro",
+                    "physics7a-16.1",
+                    "physics7a-16.2",
+                    "physics7a-16.3",
+                    "physics7a-16.4",
+                    "physics7a-16.5",
+                    "physics7a-16.6"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             },
             {
                 "id": "495WjoVy-PhlF-a2L7R30zSf",
                 "name": "Lesson 17.",
                 "topics": "Sound",
                 "allowRecycle": true,
-                "chat_display_mode": "Window",
                 "learningObjectives": {
                     "beats": 0.85,
                     "normal_modes_of_a_standing_sound_wave": 0.85,
@@ -6842,9 +7012,26 @@
                     "sources_of_musical_sound": 0.85,
                     "speed_of_sound": 0.85,
                     "the_doppler_effect": 0.85
-                }
+                },
+                "chat_documents": [
+                    "physics7a-ch17-intro",
+                    "physics7a-17.1",
+                    "physics7a-17.2",
+                    "physics7a-17.3",
+                    "physics7a-17.4",
+                    "physics7a-17.5",
+                    "physics7a-17.6",
+                    "physics7a-17.7",
+                    "physics7a-17.8"
+                ],
+                "chat_display_mode": "Window",
+                "chat_prompt": "PROMPT-physics-7a-v1.txt",
+                "help_penalty_mode": "AnswerReveal"
             }
-        ]
+        ],
+        "chat_display_mode": "Window",
+        "chat_prompt": "PROMPT-physics-7a-v1.txt",
+        "help_penalty_mode": "AnswerReveal"
     },
     {
         "courseName": "Chemistry 1A Summer Content",
