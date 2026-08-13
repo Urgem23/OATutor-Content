@@ -803,7 +803,7 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "applying_l’hôpital’s_rule": 0.85,
+                    "applying_l\u2019h\u00f4pital\u2019s_rule": 0.85,
                     "derivatives_and_the_shape_of_the_graph": 0.85,
                     "other_indeterminate_forms": 0.85
                 },
@@ -916,7 +916,7 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "applying_l’hôpital’s_rule": 0.85,
+                    "applying_l\u2019h\u00f4pital\u2019s_rule": 0.85,
                     "other_indeterminate_forms": 0.85,
                     "section_4.8_exercises": 0.85
                 },
@@ -1861,7 +1861,7 @@
                 "learningObjectives": {
                     "calculating_the_sample_size_n": 0.85,
                     "population_proportion": 0.85,
-                    "“plus_four”_confidence_interval_for_p": 0.85
+                    "\u201cplus_four\u201d_confidence_interval_for_p": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
                 "help_penalty_mode": "AnswerReveal"
@@ -2222,7 +2222,7 @@
             {
                 "id": "7NJFcfIE-jg9N-hsHAvtQ1CA",
                 "name": "Lesson 5",
-                "topics": "Area av ett område mellan två kurvor",
+                "topics": "Area av ett omr\u00e5de mellan tv\u00e5 kurvor",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
@@ -2234,11 +2234,11 @@
             {
                 "id": "2ksr98rM-23N5-e0TKVh2URv",
                 "name": "Lesson 6",
-                "topics": "Områden av sammansatta regioner",
+                "topics": "Omr\u00e5den av sammansatta regioner",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "6.1_områden_av_sammansatta_regioner": 0.85
+                    "6.1_omr\u00e5den_av_sammansatta_regioner": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
                 "help_penalty_mode": "AnswerReveal"
@@ -2263,8 +2263,11 @@
                 "learningObjectives": {
                     "algebra_with_absolute_values": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
-                "help_penalty_mode": "AnswerReveal"
+                "chat_prompt": "PROMPT-math-1b.txt",
+                "help_penalty_mode": "AnswerReveal",
+                "chat_documents": [
+                    "math1b-03"
+                ]
             },
             {
                 "id": "0YnVTGlC-x0GF-hL9gi8IWNQ",
@@ -2275,8 +2278,11 @@
                 "learningObjectives": {
                     "algebra_with_exponents_and_logarithms": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
-                "help_penalty_mode": "AnswerReveal"
+                "chat_prompt": "PROMPT-math-1b.txt",
+                "help_penalty_mode": "AnswerReveal",
+                "chat_documents": [
+                    "math1b-02"
+                ]
             },
             {
                 "id": "440CRpEu-q497-yJmQIEIOrf",
@@ -2287,8 +2293,11 @@
                 "learningObjectives": {
                     "geometry_and_algebra": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
-                "help_penalty_mode": "AnswerReveal"
+                "chat_prompt": "PROMPT-math-1b.txt",
+                "help_penalty_mode": "AnswerReveal",
+                "chat_documents": [
+                    "math1b-01"
+                ]
             },
             {
                 "id": "37bAmbLW-jYzk-6IIqeG3JDs",
@@ -2299,8 +2308,13 @@
                 "learningObjectives": {
                     "trigonometric_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
-                "help_penalty_mode": "AnswerReveal"
+                "chat_prompt": "PROMPT-math-1b.txt",
+                "help_penalty_mode": "AnswerReveal",
+                "chat_documents": [
+                    "math1b-10",
+                    "math1b-11",
+                    "math1b-12"
+                ]
             },
             {
                 "id": "19eobwON-8bno-gmbuF7wQsV",
@@ -2311,8 +2325,11 @@
                 "learningObjectives": {
                     "core_functions:_exponential_and_logarithmic": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
-                "help_penalty_mode": "AnswerReveal"
+                "chat_prompt": "PROMPT-math-1b.txt",
+                "help_penalty_mode": "AnswerReveal",
+                "chat_documents": [
+                    "math1b-09"
+                ]
             },
             {
                 "id": "64wMTUtU-BzIS-CJIRppB2GT",
@@ -2323,8 +2340,11 @@
                 "learningObjectives": {
                     "algebra_with_inequalities": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
-                "help_penalty_mode": "AnswerReveal"
+                "chat_prompt": "PROMPT-math-1b.txt",
+                "help_penalty_mode": "AnswerReveal",
+                "chat_documents": [
+                    "math1b-03"
+                ]
             },
             {
                 "id": "52IAbql2-jE33-q5yKH8tH9X",
@@ -2335,8 +2355,11 @@
                 "learningObjectives": {
                     "inequalities_and_absolute_values": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
-                "help_penalty_mode": "AnswerReveal"
+                "chat_prompt": "PROMPT-math-1b.txt",
+                "help_penalty_mode": "AnswerReveal",
+                "chat_documents": [
+                    "math1b-03"
+                ]
             },
             {
                 "id": "3iToK3qF-KYXf-z1RBdn9a4o",
@@ -2347,8 +2370,13 @@
                 "learningObjectives": {
                     "composition_of_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
-                "help_penalty_mode": "AnswerReveal"
+                "chat_prompt": "PROMPT-math-1b.txt",
+                "help_penalty_mode": "AnswerReveal",
+                "chat_documents": [
+                    "math1b-05",
+                    "math1b-06",
+                    "math1b-07"
+                ]
             },
             {
                 "id": "5xDxBHaI-V4tX-Gyu8GRAdQ1",
@@ -2359,8 +2387,16 @@
                 "learningObjectives": {
                     "transformations_of_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
-                "help_penalty_mode": "AnswerReveal"
+                "chat_prompt": "PROMPT-math-1b.txt",
+                "help_penalty_mode": "AnswerReveal",
+                "chat_documents": [
+                    "math1b-06",
+                    "math1b-07",
+                    "math1b-05",
+                    "math1b-10",
+                    "math1b-12",
+                    "math1b-11"
+                ]
             },
             {
                 "id": "2JPquRNR-6clQ-lrVRAWJE4B",
@@ -2372,12 +2408,15 @@
                     "core_functions:_constant": 0.85,
                     "linear_and_quadratic": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
-                "help_penalty_mode": "AnswerReveal"
+                "chat_prompt": "PROMPT-math-1b.txt",
+                "help_penalty_mode": "AnswerReveal",
+                "chat_documents": [
+                    "math1b-08"
+                ]
             }
         ],
         "chat_display_mode": "Window",
-        "chat_prompt": "PROMPTv2a.txt",
+        "chat_prompt": "PROMPT-math-1b.txt",
         "help_penalty_mode": "AnswerReveal"
     },
     {
@@ -2463,9 +2502,9 @@
                 "learningObjectives": {
                     "centripetal_acceleration": 0.85,
                     "centripetal_force": 0.85,
-                    "newton’s_universal_law_of_gravitation": 0.85,
+                    "newton\u2019s_universal_law_of_gravitation": 0.85,
                     "rotation_angle_and_angular_velocity": 0.85,
-                    "satellites_and_kepler’s_laws:_an_argument_for_simplicity": 0.85
+                    "satellites_and_kepler\u2019s_laws:_an_argument_for_simplicity": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
                 "help_penalty_mode": "AnswerReveal"
@@ -2544,11 +2583,11 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "bernoulli’s_equation": 0.85,
+                    "bernoulli\u2019s_equation": 0.85,
                     "flow_rate_and_its_relation_to_velocity": 0.85,
-                    "the_most_general_applications_of_bernoulli’s_equation": 0.85,
+                    "the_most_general_applications_of_bernoulli\u2019s_equation": 0.85,
                     "the_onset_of_turbulence": 0.85,
-                    "viscosity_and_laminar_flow;_poiseuille’s_law": 0.85
+                    "viscosity_and_laminar_flow;_poiseuille\u2019s_law": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
                 "help_penalty_mode": "AnswerReveal"
@@ -2882,11 +2921,11 @@
             {
                 "id": "6wPgSFSF-ztah-32ecjGYtAg",
                 "name": "Lesson 4.8",
-                "topics": "L’Hôpital’s Rule",
+                "topics": "L\u2019H\u00f4pital\u2019s Rule",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "applying_l’hôpital’s_rule": 0.85,
+                    "applying_l\u2019h\u00f4pital\u2019s_rule": 0.85,
                     "other_indeterminate_forms": 0.85,
                     "section_4.8_exercises": 0.85
                 },
@@ -2896,7 +2935,7 @@
             {
                 "id": "17X8MSAT-9AwK-hzSqbioopw",
                 "name": "Lesson 4.9",
-                "topics": "Newton’s Method",
+                "topics": "Newton\u2019s Method",
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
@@ -3129,7 +3168,7 @@
                     "using_the_horizontal_line_test_in_openstax_precalc": 0.85,
                     "using_the_vertical_line_test_in_openstax_precalc": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3142,7 +3181,7 @@
                     "domain_and_range": 0.85,
                     "finding_domain_and_ranges": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3154,7 +3193,7 @@
                 "learningObjectives": {
                     "rates_of_change_and_behavior_of_graphs": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3166,7 +3205,7 @@
                 "learningObjectives": {
                     "composition_of_functions_in_openstax_precalc": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3178,7 +3217,7 @@
                 "learningObjectives": {
                     "transformation_of_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3190,7 +3229,7 @@
                 "learningObjectives": {
                     "absolute_value_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3206,7 +3245,7 @@
                     "using_inverse_functions_in_the_real_world": 0.85,
                     "verifying_that_two_functions_are_inverse_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3218,7 +3257,7 @@
                 "learningObjectives": {
                     "linear_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3230,7 +3269,7 @@
                 "learningObjectives": {
                     "graph_of_linear_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3242,7 +3281,7 @@
                 "learningObjectives": {
                     "modeling_with_linear_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3254,7 +3293,7 @@
                 "learningObjectives": {
                     "fitting_linear_models_to_data": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3266,7 +3305,7 @@
                 "learningObjectives": {
                     "complex_numbers": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3278,7 +3317,7 @@
                 "learningObjectives": {
                     "quadratic_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3290,7 +3329,7 @@
                 "learningObjectives": {
                     "power_functions_and_polynomial_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3302,7 +3341,7 @@
                 "learningObjectives": {
                     "graphs_of_polynomial_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3314,7 +3353,7 @@
                 "learningObjectives": {
                     "dividing_polynomials": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3325,7 +3364,7 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "complex_conjugate_theorem": 0.85,
-                    "descartes’_rule_of_signs": 0.85,
+                    "descartes\u2019_rule_of_signs": 0.85,
                     "evaluating_a_polynomial_using_the_remainder_theorem": 0.85,
                     "factor_theorem": 0.85,
                     "finding_the_zeros_of_a_polynomial_function_with_repeated_real_zeros": 0.85,
@@ -3334,7 +3373,7 @@
                     "using_polynomials_to_solve_real_world_applications": 0.85,
                     "using_the_factor_theorem_to_solve_a_polynomial_equation": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3346,7 +3385,7 @@
                 "learningObjectives": {
                     "rational_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3358,7 +3397,7 @@
                 "learningObjectives": {
                     "inverses_and_radical_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3374,7 +3413,7 @@
                     "solving_problems_involving_joint_variation": 0.85,
                     "writing_algebra_variation_relationships": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3386,7 +3425,7 @@
                 "learningObjectives": {
                     "exponential_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3398,7 +3437,7 @@
                 "learningObjectives": {
                     "graphs_of_exponential_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3410,7 +3449,7 @@
                 "learningObjectives": {
                     "logarithmic_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3422,7 +3461,7 @@
                 "learningObjectives": {
                     "graphs_of_logarithmic_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3434,7 +3473,7 @@
                 "learningObjectives": {
                     "logarithmic_properties": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3446,7 +3485,7 @@
                 "learningObjectives": {
                     "exponential_and_logarithmic_equations": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3458,7 +3497,7 @@
                 "learningObjectives": {
                     "exponential_and_logarithmic_models": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3470,7 +3509,7 @@
                 "learningObjectives": {
                     "fitting_exponential_models_to_data": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3482,7 +3521,7 @@
                 "learningObjectives": {
                     "angles": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3501,7 +3540,7 @@
                     "using_reference_angle_to_find_sine_and_cosine": 0.85,
                     "using_reference_angles_to_find_coordinates": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3513,7 +3552,7 @@
                 "learningObjectives": {
                     "the_other_trigonometric_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3525,7 +3564,7 @@
                 "learningObjectives": {
                     "right_triangle_trigonometry": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3538,7 +3577,7 @@
                     "analyzing_graphs_of_variations_of_y_=_sin_x_and_y_=_cos_x": 0.85,
                     "investigating_sinusoidal_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3550,7 +3589,7 @@
                 "learningObjectives": {
                     "graphs_of_the_other_trigonometric_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3562,7 +3601,7 @@
                 "learningObjectives": {
                     "simplifying_and_verifying_trigonometric_identities": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3574,7 +3613,7 @@
                 "learningObjectives": {
                     "sum_and_difference_identities": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3588,7 +3627,7 @@
                     "double_angle": 0.85,
                     "half_angle": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3600,7 +3639,7 @@
                 "learningObjectives": {
                     "sum_to_product_and_product_to_sum_formulas": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3612,7 +3651,7 @@
                 "learningObjectives": {
                     "solving_trigonometric_equations": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3624,7 +3663,7 @@
                 "learningObjectives": {
                     "modeling_with_trigonometric_functions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3636,7 +3675,7 @@
                 "learningObjectives": {
                     "non_right_triangles:_law_of_sines": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3649,11 +3688,11 @@
                     "extensions": 0.85,
                     "finding_the_unknown_side_and_angles_of_a_sas_triangle": 0.85,
                     "solving_for_an_angle_of_a_sss_triangle": 0.85,
-                    "using_heron’s_formula_to_find_the_area_of_a_triangle": 0.85,
+                    "using_heron\u2019s_formula_to_find_the_area_of_a_triangle": 0.85,
                     "using_the_law_of_cosines_to_solve_oblique_triangles": 0.85,
                     "using_trigonometry_in_the_real_world": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3665,7 +3704,7 @@
                 "learningObjectives": {
                     "polar_coordinates": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3677,7 +3716,7 @@
                 "learningObjectives": {
                     "polar_coordinates:_graphs": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3694,7 +3733,7 @@
                     "finding_the_absolute_value_of_a_complex_number": 0.85,
                     "writing_complex_numbers_in_polar_form": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3706,7 +3745,7 @@
                 "learningObjectives": {
                     "parametric_equations": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3718,7 +3757,7 @@
                 "learningObjectives": {
                     "vectors": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3730,7 +3769,7 @@
                 "learningObjectives": {
                     "systems_of_linear_equations:_two_variables": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3742,7 +3781,7 @@
                 "learningObjectives": {
                     "systems_of_linear_equations___three_variables": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3754,7 +3793,7 @@
                 "learningObjectives": {
                     "systems_of_nonlinear_equations": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3766,7 +3805,7 @@
                 "learningObjectives": {
                     "partial_fractions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3778,7 +3817,7 @@
                 "learningObjectives": {
                     "matrices_and_matrix_operations": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3790,7 +3829,7 @@
                 "learningObjectives": {
                     "solving_systems_with_gaussian_elimination": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3806,7 +3845,7 @@
                     "real_world_usage_of_matrix_inverses": 0.85,
                     "solving_a_system_of_linear_equations_using_the_inverse_of_a_matrix": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3818,7 +3857,7 @@
                 "learningObjectives": {
                     "solving_systems_with_cramer's_rule": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3830,7 +3869,7 @@
                 "learningObjectives": {
                     "the_ellipse": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3842,7 +3881,7 @@
                 "learningObjectives": {
                     "the_parabola": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3856,7 +3895,7 @@
                     "identifying_conics_without_rotating_axes": 0.85,
                     "identifying_nondegenerate_conics_in_general_form": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3868,7 +3907,7 @@
                 "learningObjectives": {
                     "conic_sections_in_polar_coordinates": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3880,7 +3919,7 @@
                 "learningObjectives": {
                     "sequences_and_their_notations": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3892,7 +3931,7 @@
                 "learningObjectives": {
                     "arithmetic_sequences": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3904,7 +3943,7 @@
                 "learningObjectives": {
                     "geometric_sequences": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3916,7 +3955,7 @@
                 "learningObjectives": {
                     "series_and_their_notations": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3928,7 +3967,7 @@
                 "learningObjectives": {
                     "counting_principles": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3941,7 +3980,7 @@
                     "algebra": 0.85,
                     "extensions": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3953,7 +3992,7 @@
                 "learningObjectives": {
                     "probability": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3965,7 +4004,7 @@
                 "learningObjectives": {
                     "finding_limits:_numerical_and_graphical_approaches": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3977,7 +4016,7 @@
                 "learningObjectives": {
                     "finding_limits:_properties_of_limits": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -3989,7 +4028,7 @@
                 "learningObjectives": {
                     "continuity": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             },
             {
@@ -4001,12 +4040,12 @@
                 "learningObjectives": {
                     "derivatives": 0.85
                 },
-                "chat_prompt": "PROMPTv2a.txt",
+                "chat_prompt": "PROMPT-precalc.txt",
                 "help_penalty_mode": "AnswerReveal"
             }
         ],
         "chat_display_mode": "Window",
-        "chat_prompt": "PROMPTv2a.txt",
+        "chat_prompt": "PROMPT-precalc.txt",
         "help_penalty_mode": "AnswerReveal"
     },
     {
@@ -4416,7 +4455,7 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "identify_the_slope_and_y_intercept_from_an_equation_of_a_line": 0.85,
-                    "recognize_the_relation_between_the_graph_and_the_slope–intercept_form_of_an_equation_of_a_line": 0.85,
+                    "recognize_the_relation_between_the_graph_and_the_slope\u2013intercept_form_of_an_equation_of_a_line": 0.85,
                     "use_slopes_to_identify_parallel_lines": 0.85,
                     "use_slopes_to_identify_perpendicular_lines": 0.85
                 },
@@ -5332,10 +5371,10 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "dependent_and_inconsistent_systems_of_equations": 0.85,
-                    "evaluate_the_determinant_of_a_2_×_2_matrix": 0.85,
-                    "evaluate_the_determinant_of_a_3_×_3_matrix": 0.85,
+                    "evaluate_the_determinant_of_a_2_\u00d7_2_matrix": 0.85,
+                    "evaluate_the_determinant_of_a_3_\u00d7_3_matrix": 0.85,
                     "solve_applications_using_determinants": 0.85,
-                    "use_cramer’s_rule_to_solve_systems_of_equations": 0.85
+                    "use_cramer\u2019s_rule_to_solve_systems_of_equations": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
                 "help_penalty_mode": "AnswerReveal"
@@ -5589,7 +5628,7 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "simplify_expressions_with_a**(1/𝑛)": 0.85,
+                    "simplify_expressions_with_a**(1/\ud835\udc5b)": 0.85,
                     "simplify_expressions_with_a**(m/n)": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -5953,7 +5992,7 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "use_pascal’s_triangle_to_expand_a_binomial": 0.85,
+                    "use_pascal\u2019s_triangle_to_expand_a_binomial": 0.85,
                     "use_the_binomial_theorem_to_expand_a_binomial": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -6401,7 +6440,7 @@
                     "evaluating_a_polynomial_using_the_remainder_theorem": 0.85,
                     "finding_the_zeros_of_polynomial_functions": 0.85,
                     "solving_real_world_applications": 0.85,
-                    "using_descartes’_rule_of_signs": 0.85,
+                    "using_descartes\u2019_rule_of_signs": 0.85,
                     "using_the_factor_theorem_to_solve_a_polynomial_equation": 0.85,
                     "using_the_fundamental_theorem_of_algebra": 0.85,
                     "using_the_linear_factorization_theorem_to_find_polynomials_with_given_zeros": 0.85,
@@ -6676,9 +6715,9 @@
                 "allowRecycle": true,
                 "chat_display_mode": "Window",
                 "learningObjectives": {
-                    "performing_row_operations_on_a_3×3_augmented_matrix_to_obtain_row_echelon_form": 0.85,
+                    "performing_row_operations_on_a_3\u00d73_augmented_matrix_to_obtain_row_echelon_form": 0.85,
                     "solving_a_2x2_system_by_gaussian_elimination": 0.85,
-                    "solving_a_2×2_system_by_gaussian_elimination": 0.85,
+                    "solving_a_2\u00d72_system_by_gaussian_elimination": 0.85,
                     "solving_a_dependent_system": 0.85,
                     "solving_a_dependent_system_of_linear_equations_using_matrices": 0.85,
                     "solving_a_system_of_linear_equations_using_matrices": 0.85,
@@ -6697,8 +6736,8 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "finding_the_inverse_of_a_matrix": 0.85,
-                    "finding_the_multiplicative_inverse_of_2×2_matrices_using_a_formula": 0.85,
-                    "solving_a_2_×_2_system_using_the_inverse_of_a_matrix": 0.85,
+                    "finding_the_multiplicative_inverse_of_2\u00d72_matrices_using_a_formula": 0.85,
+                    "solving_a_2_\u00d7_2_system_using_the_inverse_of_a_matrix": 0.85,
                     "solving_a_system_of_linear_equations_using_the_inverse_of_a_matrix": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
@@ -6712,14 +6751,14 @@
                 "chat_display_mode": "Window",
                 "learningObjectives": {
                     "evaluating_the_determinant_of_a_2x2_matrix": 0.85,
-                    "evaluating_the_determinant_of_a_2×2_matrix": 0.85,
+                    "evaluating_the_determinant_of_a_2\u00d72_matrix": 0.85,
                     "evaluating_the_determinant_of_a_3x3_matrix": 0.85,
                     "understanding_properties_of_determinants": 0.85,
                     "using_cramer's_rule_to_solve_a_dependent_system": 0.85,
                     "using_cramer's_rule_to_solve_a_system_of_three_equations_in_three_variable": 0.85,
                     "using_cramer's_rule_to_solve_a_system_of_two_equations_in_two_variables": 0.85,
                     "using_cramer's_rule_to_solve_an_inconsistent_system": 0.85,
-                    "using_cramer’s_rule_to_solve_a_system_of_two_equations_in_two_variables": 0.85
+                    "using_cramer\u2019s_rule_to_solve_a_system_of_two_equations_in_two_variables": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
                 "help_penalty_mode": "AnswerReveal"
@@ -7430,7 +7469,7 @@
                 "learningObjectives": {
                     "calculating_the_sample_size_n": 0.85,
                     "population_proportion": 0.85,
-                    "“plus_four”_confidence_interval_for_p": 0.85
+                    "\u201cplus_four\u201d_confidence_interval_for_p": 0.85
                 },
                 "chat_prompt": "PROMPTv2a.txt",
                 "help_penalty_mode": "AnswerReveal"
@@ -8225,7 +8264,8 @@
                     "chem1a-6.5",
                     "chem1a-6.6",
                     "chem1a-6.7",
-                    "chem1a-6.8"                            ]
+                    "chem1a-6.8"
+                ]
             },
             {
                 "id": "6HxdI5jL-zKeC-M4qLarHoOt",
