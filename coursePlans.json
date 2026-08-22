@@ -2430,7 +2430,7 @@
                 "learningObjectives": {
                     "algebra_with_absolute_values": 0.85
                 },
-                "chat_prompt": "PROMPT-math-1b-v1a.txt",
+                "chat_prompt": "PROMPT-math-1b-v1b.txt",
                 "chat_documents": [
                     "math1b-03"
                 ],
@@ -2446,7 +2446,7 @@
                 "learningObjectives": {
                     "algebra_with_exponents_and_logarithms": 0.85
                 },
-                "chat_prompt": "PROMPT-math-1b-v1a.txt",
+                "chat_prompt": "PROMPT-math-1b-v1b.txt",
                 "chat_documents": [
                     "math1b-02"
                 ],
@@ -2462,7 +2462,7 @@
                 "learningObjectives": {
                     "geometry_and_algebra": 0.85
                 },
-                "chat_prompt": "PROMPT-math-1b-v1a.txt",
+                "chat_prompt": "PROMPT-math-1b-v1b.txt",
                 "chat_documents": [
                     "math1b-01"
                 ],
@@ -2478,7 +2478,7 @@
                 "learningObjectives": {
                     "trigonometric_functions": 0.85
                 },
-                "chat_prompt": "PROMPT-math-1b-v1a.txt",
+                "chat_prompt": "PROMPT-math-1b-v1b.txt",
                 "chat_documents": [
                     "math1b-10",
                     "math1b-11",
@@ -2496,7 +2496,7 @@
                 "learningObjectives": {
                     "core_functions:_exponential_and_logarithmic": 0.85
                 },
-                "chat_prompt": "PROMPT-math-1b-v1a.txt",
+                "chat_prompt": "PROMPT-math-1b-v1b.txt",
                 "chat_documents": [
                     "math1b-09"
                 ],
@@ -2512,7 +2512,7 @@
                 "learningObjectives": {
                     "algebra_with_inequalities": 0.85
                 },
-                "chat_prompt": "PROMPT-math-1b-v1a.txt",
+                "chat_prompt": "PROMPT-math-1b-v1b.txt",
                 "chat_documents": [
                     "math1b-03"
                 ],
@@ -2528,7 +2528,7 @@
                 "learningObjectives": {
                     "inequalities_and_absolute_values": 0.85
                 },
-                "chat_prompt": "PROMPT-math-1b-v1a.txt",
+                "chat_prompt": "PROMPT-math-1b-v1b.txt",
                 "chat_documents": [
                     "math1b-03"
                 ],
@@ -2544,7 +2544,7 @@
                 "learningObjectives": {
                     "composition_of_functions": 0.85
                 },
-                "chat_prompt": "PROMPT-math-1b-v1a.txt",
+                "chat_prompt": "PROMPT-math-1b-v1b.txt",
                 "chat_documents": [
                     "math1b-05",
                     "math1b-06",
@@ -2562,7 +2562,7 @@
                 "learningObjectives": {
                     "transformations_of_functions": 0.85
                 },
-                "chat_prompt": "PROMPT-math-1b-v1a.txt",
+                "chat_prompt": "PROMPT-math-1b-v1b.txt",
                 "chat_documents": [
                     "math1b-06",
                     "math1b-07",
@@ -2584,7 +2584,7 @@
                     "core_functions:_constant": 0.85,
                     "linear_and_quadratic": 0.85
                 },
-                "chat_prompt": "PROMPT-math-1b-v1a.txt",
+                "chat_prompt": "PROMPT-math-1b-v1b.txt",
                 "chat_documents": [
                     "math1b-08"
                 ],
@@ -2593,7 +2593,7 @@
             }
         ],
         "chat_display_mode": "Window",
-        "chat_prompt": "PROMPT-math-1b-v1a.txt",
+        "chat_prompt": "PROMPT-math-1b-v1b.txt",
         "chat_penalty_mode": "Never",
         "hint_penalty_mode": "OnOpen"
     },
