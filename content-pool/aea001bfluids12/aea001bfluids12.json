@@ -1,7 +1,7 @@
 {
     "id": "aea001bfluids12",
     "title": "Gasoline Flow",
-    "body": "A car traveling at $$100$$ $$\\frac{km}{h}$$ averages $$10.0$$ $$\\frac{km}{L}$$ of gasoline.",
+    "body": "A car traveling at $$100\\, \\tfrac{\\text{km}}{\\text{hr}}$$ averages $$10.0$$ $$\\frac{km}{L}$$ of gasoline.",
     "variabilization": {},
     "oer": "https://openstax.org/books/university-physics-volume-1/pages/14-problems",
     "license": "",

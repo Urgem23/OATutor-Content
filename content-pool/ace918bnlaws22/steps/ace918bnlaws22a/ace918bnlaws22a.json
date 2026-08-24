@@ -4,7 +4,7 @@
         "$$0.4$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What fraction of the nails have been used? (give the numerical value only)",
+    "stepTitle": "What fraction of the nails have been used?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

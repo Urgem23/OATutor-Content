@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Problem",
-        "text": "The biker is launched at an angle of $$60$$ degrees and lands $$45.0$$ $$m$$ away, $$20$$ $$m$$ below the launch point. We need to find the initial speed.",
+        "text": "The biker is launched at an angle of $$60**\\circ$$ and lands $$45.0\\, \\text{m}$$ away, $$20\\, \\text{m}$$ below the launch point. We need to find the initial speed.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -28,7 +28,7 @@
             "a16844emotion2d27a-h2"
         ],
         "title": "Horizontal Motion",
-        "text": "The horizontal distance covered is $$45.0$$ $$m$$. Use the formula: $$horizontal_{distance}$$ $$=$$ $$initial_{horizontal,velocity}$$ * time.",
+        "text": "The horizontal distance covered is $$45.0\\, \\text{m}$$. $$ \\cup se$$ $$the$$ $$formula$$: $$horizontal_{distance}$$ $$=$$ $$initial_{horizontal,velocity}$$ * $$time$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -40,7 +40,7 @@
             "a16844emotion2d27a-h2"
         ],
         "title": "Vertical Motion",
-        "text": "The vertical motion is affected by gravity. Use the formula: $$vertical_{displacement}$$ $$=$$ $$initial_{vertical,velocity}$$ * time - $$0.5$$ * g * $${time}^2$$.",
+        "text": "The vertical motion is affected by gravity. Use the formula: $$vertical_{displacement}$$ $$=$$ $$initial_{vertical,velocity}$$ * time - $$0.5$$ * g * $$\\text{time}**{2}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -69,7 +69,7 @@
             "a16844emotion2d27a-h4"
         ],
         "title": "Finding Time of Flight",
-        "text": "Use the vertical motion equation to solve for time: $$20$$ $$=$$ $$initial_{speed}$$ * sin(60) * time - $$0.5$$ * $$9.8$$ * $${time}^2$$.",
+        "text": "Use the vertical motion equation to solve for time: $$20$$ $$=$$ $$initial_{speed}$$ * sin(60) * time - $$0.5$$ * $$9.8$$ * $$\\text{time}**{2}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

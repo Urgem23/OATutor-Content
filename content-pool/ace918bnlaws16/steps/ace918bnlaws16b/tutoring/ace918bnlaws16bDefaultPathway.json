@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Problem",
-        "text": "The spider is hanging from a web that forms an angle of $$12$$ degrees below the horizontal on each side. We need to find the tension in the web.",
+        "text": "The spider is hanging from a web that forms an angle of $$12**\\circ$$ below the horizontal on each side. We need to find the tension in the web.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,13 +39,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$T sin\\left(12\\right)=2\\times{10}^{-5}\\times9.8$$"
+            "T*sin(12)=$$2.00\\times10**{-5}$$*9.8"
         ],
         "dependencies": [
             "ace918bnlaws16b-h3"
         ],
         "title": "Calculating Vertical Component",
-        "text": "The vertical component of the tension (T) can be expressed as T*sin(12 degrees). This component must equal the weight of the spider.",
+        "text": "The vertical component of the tension $$T$$ can be expressed as T*sin($$12**\\circ$$). This component must equal the weight of the spider.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -56,13 +56,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$T=\\frac{2\\times{10}^{-5}\\times9.8}sin^$\\left(12\\righ$$"
+            "T=($$2.00\\times10**{-5}$$*9.8)/sin(12)"
         ],
         "dependencies": [
             "ace918bnlaws16b-h4"
         ],
         "title": "Solving for Tension",
-        "text": "Rearrange the equation to solve for T.",
+        "text": "Rearrange the equation to solve for $$T$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -79,7 +79,7 @@
             "ace918bnlaws16b-h5"
         ],
         "title": "Final Calculation",
-        "text": "Calculate the value of T using the equation.",
+        "text": "Calculate the value of $$T$$ using the equation.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

@@ -16,7 +16,7 @@
             "a590f38trigonometric64b-h1"
         ],
         "title": "General solutions for cosine",
-        "text": "If $$x_1$$ is the principal solution for $$\\cos(x)=k$$ $$$$, $$the$$ $$other$$ $$solution$$ $$in$$ $$(0, \\$$ $$2\\pi)$$ is $$2\\pi$$ - $$x_1$$.",
+        "text": "If $$x_1$$ is the principal solution for $$\\cos(x)=k$$, $$the$$ $$other$$ $$solution$$ $$in$$ $$(0$$, $$2\\pi)$$ is $$2\\pi$$ - $$x_1$$.",
         "variabilization": {},
         "oer": "",
         "license": ""

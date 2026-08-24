@@ -4,7 +4,7 @@
         "$$18.7$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find its direction, in degrees east of north. (give the numerical value only, angle in degrees)",
+    "stepTitle": "Find its direction, in degrees east of north (in $$\\text{degrees}\\$\\$)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

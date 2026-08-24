@@ -4,7 +4,7 @@
         "$$1.38$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the mass of the object. (give the numerical value only, mass in kg)",
+    "stepTitle": "Find the mass of the object (in $$\\text{kg}\\$\\$)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

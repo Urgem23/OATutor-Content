@@ -33,7 +33,7 @@
             "a88c93efixedaxis12a-h2"
         ],
         "title": "Calculate Horizontal Velocity",
-        "text": "The horizontal velocity of the propeller is the same as the aircraft's horizontal velocity, which is $$40.0$$ $$\\frac{m}{s}$$.",
+        "text": "The horizontal velocity of the propeller is the same as the aircraft's horizontal velocity, which is $$40.0\\, \\tfrac{\\text{m}}{\\text{s}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -45,7 +45,7 @@
             "a88c93efixedaxis12a-h1"
         ],
         "title": "Vertical Velocity",
-        "text": "To find the vertical velocity at impact, use the formula for the final velocity of an object in free fall: v $$=$$ $$\\sqrt{2g h}$$.",
+        "text": "To find the vertical velocity at impact, use the formula for the final velocity of an object in free fall: $$v=\\sqrt{2gh}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -62,7 +62,7 @@
             "a88c93efixedaxis12a-h4"
         ],
         "title": "Calculate Vertical Velocity",
-        "text": "Using the formula $$v=\\sqrt{2g h}$$, where $$g=9.8$$ $$\\frac{m}{s^2}$$ and $$h=300$$ $$m$$, calculate the vertical velocity.",
+        "text": "Using the formula $$v=\\sqrt{2gh}$$, $$where$$ $$g=9.8\\,\\tfrac{\\text{m}}{\\text{s}**{2}}$$ and $$h=300\\, \\text{m}$$, $$calculate$$ $$the$$ $$vertical$$ $$velocity$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -91,7 +91,7 @@
             "a88c93efixedaxis12a-h6"
         ],
         "title": "Calculate Resultant Velocity",
-        "text": "Using the Pythagorean theorem, $$v=\\sqrt{{v_{horizontal}}^2+{v_{vertical}}^2}$$, where $$v_{horizontal}=40.0$$ $$\\frac{m}{s}$$ and $$v_{vertical}=76.68$$ $$\\frac{m}{s}$$.",
+        "text": "Using the Pythagorean theorem, v=sqrt($$v_{\\text{horizontal}}$$**2+$$v_{\\text{vertical}}$$**2), where $$v_{\\text{horizontal}}=40.0\\,\\tfrac{\\text{m}}{\\text{s}}$$ and $$v_{\\text{vertical}}=76.68\\,\\tfrac{\\text{m}}{\\text{s}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

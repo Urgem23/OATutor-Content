@@ -32,34 +32,5 @@
         "variabilization": {},
         "oer": "openai",
         "license": ""
-    },
-    {
-        "id": "a949afaangmom5a-h4",
-        "type": "hint",
-        "dependencies": [
-            "a949afaangmom5a-h3"
-        ],
-        "title": "Relate Linear and Angular Acceleration",
-        "text": "The linear acceleration a and angular acceleration alpha are related by the equation: $$a=\\alpha r$$, where $$r$$ is the radius of the cylinder.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a949afaangmom5a-h5",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$67.9$$"
-        ],
-        "dependencies": [
-            "a949afaangmom5a-h4"
-        ],
-        "title": "Calculate Angular Acceleration",
-        "text": "Using the relation between linear and angular acceleration, and knowing the frictional force, calculate the angular acceleration of the cylinder.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

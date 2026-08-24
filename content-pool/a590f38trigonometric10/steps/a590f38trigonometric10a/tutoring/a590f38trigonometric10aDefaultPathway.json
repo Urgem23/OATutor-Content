@@ -28,7 +28,7 @@
         "choices": [
             "$$x=\\cos(\\theta)$$",
             "$$x=\\sin(\\theta)$$",
-            "$$x=\\cos**{2} $$\\theta$$",
+            "$$x=\\cos**2(\\theta)$$",
             "$$x=\\theta$$"
         ]
     },
@@ -108,20 +108,20 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\arccos(\\frac{-3+\\sqrt{13}}{2}),\\ 2\\pi-\\arccos(\\frac{-3+\\sqrt{13}}{2})$$"
+            "$$\\arccos(\\frac{-3+\\sqrt{13}}{2}), 2\\pi-\\arccos(\\frac{-3+\\sqrt{13}}{2})$$"
         ],
         "dependencies": [
             "a590f38trigonometric10a-h3"
         ],
         "title": "Find angles",
-        "text": "What are the angles $$\\theta$$ $$$$ in the interval $$(0, \\$$ $$2\\pi)$$ for which $$\\cos(\\theta)=\\frac{-3+\\sqrt{13}}{2}$$?",
+        "text": "What are the angles $$\\theta$$ in the interval $$(0$$, $$2\\pi)$$ for which $$\\cos(\\theta)=\\frac{-3+\\sqrt{13}}{2}$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\arccos(\\frac{-3+\\sqrt{13}}{2}),\\ 2\\pi-\\arccos(\\frac{-3+\\sqrt{13}}{2})$$",
-            "$$\\arccos(\\frac{-3+\\sqrt{13}}{2}),\\ \\pi-\\arccos(\\frac{-3+\\sqrt{13}}{2})$$",
-            "$$\\arccos(\\frac{-3+\\sqrt{13}}{2}),\\ \\pi+\\arccos(\\frac{-3+\\sqrt{13}}{2})$$",
+            "$$\\arccos(\\frac{-3+\\sqrt{13}}{2}), 2\\pi-\\arccos(\\frac{-3+\\sqrt{13}}{2})$$",
+            "$$\\arccos(\\frac{-3+\\sqrt{13}}{2}), \\pi-\\arccos(\\frac{-3+\\sqrt{13}}{2})$$",
+            "$$\\arccos(\\frac{-3+\\sqrt{13}}{2}), \\pi+\\arccos(\\frac{-3+\\sqrt{13}}{2})$$",
             "$$\\arccos(\\frac{-3+\\sqrt{13}}{2})$$"
         ]
     }

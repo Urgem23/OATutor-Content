@@ -4,7 +4,7 @@
         "$$0.000316$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "At what flow rate might turbulence begin to develop in a water main with a $$0.200-m$$ diameter? (give the numerical value only, flow rate in m**3/s)",
+    "stepTitle": "At what flow rate might turbulence begin to develop in a water main with a $$0.200-m$$ diameter (in $$\\tfrac{\\text{m}**{3}}{\\text{s}}$$)?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -4,7 +4,7 @@
         "$$6.87$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is its average acceleration? (give the numerical value only, acceleration in $$\\frac{m}{s^2}$$ )",
+    "stepTitle": "What is its average acceleration (in $$\\tfrac{\\text{m}}{\\text{s}**{2}}$$)?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

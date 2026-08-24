@@ -15,7 +15,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$25$$"
+            "$$2.5$$"
         ],
         "dependencies": [
             "a60909cdistprop9a-h1"
@@ -32,7 +32,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$30$$"
+            "$$3$$"
         ],
         "dependencies": [
             "a60909cdistprop9a-h1"

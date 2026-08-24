@@ -26,198 +26,6 @@
     "ac76c6fbay2d": [
         "bayes"
     ],
-    "ac0bc72pred1a": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1b": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1c": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1d": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1e": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1f": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1g": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1h": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1i": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1j": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1k": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1l": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred1m": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred2a": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred2b": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred2c": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred2d": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred2e": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred2f": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred2g": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "ac0bc72pred2h": [
-        "intervals_for_prediction_&_knn_classification"
-    ],
-    "a331339res1a": [
-        "residuals"
-    ],
-    "a331339res2a": [
-        "residuals"
-    ],
-    "a331339res2b": [
-        "residuals"
-    ],
-    "a331339res2c": [
-        "residuals"
-    ],
-    "a331339res2d": [
-        "residuals"
-    ],
-    "a331339res2e": [
-        "residuals"
-    ],
-    "a331339res2f": [
-        "residuals"
-    ],
-    "a331339res2g": [
-        "residuals"
-    ],
-    "a331339res2h": [
-        "residuals"
-    ],
-    "a331339res2i": [
-        "residuals"
-    ],
-    "a331339res2j": [
-        "residuals"
-    ],
-    "a331339res2k": [
-        "residuals"
-    ],
-    "a331339res2l": [
-        "residuals"
-    ],
-    "a331339res2m": [
-        "residuals"
-    ],
-    "a331339res2n": [
-        "residuals"
-    ],
-    "a331339res2o": [
-        "residuals"
-    ],
-    "a331339res2p": [
-        "residuals"
-    ],
-    "a331339res3a": [
-        "residuals"
-    ],
-    "a331339res3b": [
-        "residuals"
-    ],
-    "a331339res3c": [
-        "residuals"
-    ],
-    "a331339res3d": [
-        "residuals"
-    ],
-    "a251b28mod1a": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod1b": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod1c": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod1d": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod1e": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod1f": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod1g": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod2a": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod2b": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod2c": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod2d": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod3a": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod3b": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod3c": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod3d": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod3e": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod4a": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod4b": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod4c": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod4d": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod4e": [
-        "correlation_&_regression"
-    ],
-    "a251b28mod4f": [
-        "correlation_&_regression"
-    ],
     "aefaff5clt1a": [
         "review"
     ],
@@ -687,430 +495,3391 @@
         "models"
     ],
     "acbe785cha1a": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha1b": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha1c": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha1d": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha1e": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha1f": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha1g": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha1h": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha1i": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha1j": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha1k": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2a": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2b": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2c": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2d": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2e": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2f": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2g": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2h": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2i": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2j": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2k": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2l": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha2m": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha3a": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha3b": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha3c": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha3d": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha3e": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha3f": [
-        "chance",
-        "models"
+        "chance"
     ],
     "acbe785cha3g": [
-        "chance",
-        "models"
+        "chance"
     ],
     "a76e5d4tab1a": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab1b": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab1c": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab1d": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab1e": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab1f": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab2a": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab3a": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab3b": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab3c": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab3d": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab3e": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab3f": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab3g": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab4a": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab4b": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab4c": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab4d": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab5a": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab5b": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab6a": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab7a": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab8a": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab8b": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab9a": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab9b": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
     "a76e5d4tab9c": [
-        "table_methods",
-        "conditionals",
-        "iteration"
+        "table_methods_and_conditionals_with_iteration"
     ],
-    "aaac80bvis1a": [
-        "visualizations",
-        "functions"
+    "a640c04F25M1Q1a": [
+        "pandas"
     ],
-    "aaac80bvis1b": [
-        "visualizations",
-        "functions"
+    "a640c04F25M1Q1b": [
+        "pandas"
     ],
-    "aaac80bvis1c": [
-        "visualizations",
-        "functions"
+    "a640c04F25M1Q1c": [
+        "pandas"
     ],
-    "aaac80bvis1d": [
-        "visualizations",
-        "functions"
+    "a640c04F25M1Q1d": [
+        "pandas"
     ],
-    "aaac80bvis1e": [
-        "visualizations",
-        "functions"
+    "a640c04F25M1Q1e": [
+        "pandas"
     ],
-    "aaac80bvis10a": [
-        "visualizations"
+    "a640c04S25FQ1Ba": [
+        "pandas"
     ],
-    "aaac80bvis10b": [
-        "visualizations"
+    "a640c04S25FQ1Bb": [
+        "pandas"
     ],
-    "aaac80bvis10c": [
-        "visualizations"
+    "a640c04S25FQ1Bc": [
+        "pandas"
     ],
-    "aaac80bvis10d": [
-        "visualizations"
+    "a640c04S25M1Q1Ca": [
+        "pandas"
     ],
-    "aaac80bvis10e": [
-        "visualizations"
+    "a640c04S25M1Q2Ba": [
+        "pandas"
     ],
-    "aaac80bvis10f": [
-        "visualizations"
+    "a640c04S25M1Q2Bb": [
+        "pandas"
     ],
-    "aaac80bvis10g": [
-        "visualizations"
+    "a640c04S25M1Q2Bc": [
+        "pandas"
     ],
-    "aaac80bvis10h": [
-        "visualizations"
+    "a640c04S25M1Q2Bd": [
+        "pandas"
     ],
-    "aaac80bvis11a": [
-        "visualizations"
+    "a640c04row4a": [
+        "pandas"
     ],
-    "aaac80bvis11b": [
-        "visualizations"
+    "a640c04row4b": [
+        "pandas"
     ],
-    "aaac80bvis11c": [
-        "visualizations"
+    "a640c04row4c": [
+        "pandas"
     ],
-    "aaac80bvis11d": [
-        "visualizations"
+    "a640c04row4d": [
+        "pandas"
     ],
-    "aaac80bvis11e": [
-        "visualizations"
+    "a640c04row4e": [
+        "pandas"
     ],
-    "aaac80bvis3a": [
-        "visualizations"
+    "a640c04row4f": [
+        "pandas"
     ],
-    "aaac80bvis3b": [
-        "visualizations"
+    "a1155e4row2a": [
+        "eda"
     ],
-    "aaac80bvis3c": [
-        "visualizations"
+    "a1155e4row2b": [
+        "eda"
     ],
-    "aaac80bvis3d": [
-        "visualizations"
+    "a1155e4row2c": [
+        "eda"
     ],
-    "aaac80bvis3e": [
-        "visualizations"
+    "a1155e4row2d": [
+        "eda"
     ],
-    "aaac80bvis4a": [
-        "visualizations"
+    "a1155e4row2e": [
+        "eda"
     ],
-    "aaac80bvis4b": [
-        "visualizations"
+    "a1155e4row2f": [
+        "eda"
     ],
-    "aaac80bvis4c": [
-        "visualizations"
+    "a1155e4row2g": [
+        "eda"
     ],
-    "aaac80bvis5a": [
-        "visualizations"
+    "a1155e4row2h": [
+        "eda"
     ],
-    "aaac80bvis5b": [
-        "visualizations"
+    "a1155e4row3_p1a": [
+        "eda"
     ],
-    "aaac80bvis5c": [
-        "visualizations"
+    "a1155e4row3_p1b": [
+        "eda"
     ],
-    "aaac80bvis5d": [
-        "visualizations"
+    "a1155e4row3_p1c": [
+        "eda"
     ],
-    "aaac80bvis6a": [
-        "visualizations"
+    "a1155e4row4a": [
+        "eda"
     ],
-    "aaac80bvis6b": [
-        "visualizations"
+    "a1155e4row4b": [
+        "eda"
     ],
-    "aaac80bvis6c": [
-        "visualizations"
+    "a1155e4row4c": [
+        "eda"
     ],
-    "aaac80bvis6d": [
-        "visualizations"
+    "a1155e4row4d": [
+        "eda"
     ],
-    "aaac80bvis6e": [
-        "visualizations"
+    "a1155e4row4e": [
+        "eda"
     ],
-    "aaac80bvis6f": [
-        "visualizations"
+    "a1155e4row4f": [
+        "eda"
     ],
-    "aaac80bvis6g": [
-        "visualizations"
+    "a1155e4row4g": [
+        "eda"
     ],
-    "aaac80bvis7a": [
-        "visualizations"
+    "a1155e4row4h": [
+        "eda"
     ],
-    "aaac80bvis7b": [
-        "visualizations"
+    "a1155e4row4i": [
+        "eda"
     ],
-    "aaac80bvis7c": [
-        "visualizations"
+    "a1155e4row4j": [
+        "eda"
     ],
-    "aaac80bvis7d": [
-        "visualizations"
+    "a1155e4row7_p1a": [
+        "eda"
     ],
-    "aaac80bvis7e": [
-        "visualizations"
+    "a1155e4row7_p1b": [
+        "eda"
     ],
-    "aaac80bvis7f": [
-        "visualizations"
+    "a1155e4row7_p1c": [
+        "eda"
     ],
-    "aaac80bvis7g": [
-        "visualizations"
+    "a1155e4row7_p1d": [
+        "eda"
     ],
-    "aaac80bvis8a": [
-        "visualizations"
+    "a1155e4row8a": [
+        "eda"
     ],
-    "aaac80bvis8b": [
-        "visualizations"
+    "a1155e4row8b": [
+        "eda"
     ],
-    "aaac80bvis8c": [
-        "visualizations"
+    "a1155e4row8c": [
+        "eda"
     ],
-    "aaac80bvis8d": [
-        "visualizations"
+    "a1155e4row8d": [
+        "eda"
     ],
-    "aaac80bvis9a": [
-        "visualizations"
+    "a1155e4row8e": [
+        "eda"
     ],
-    "aaac80bvis9b": [
-        "visualizations"
+    "a1155e4row8f": [
+        "eda"
     ],
-    "aaac80bvis9c": [
-        "visualizations"
+    "a1155e4row9a": [
+        "eda"
     ],
-    "aaac80bvis9d": [
-        "visualizations"
+    "a1155e4row9b": [
+        "eda"
     ],
-    "aaac80bvis9e": [
-        "visualizations"
+    "a1155e4row9c": [
+        "eda"
     ],
-    "aaac80bvis9f": [
-        "visualizations"
+    "a72a45crow10_p1a": [
+        "sampling"
+    ],
+    "a72a45crow10_p1b": [
+        "sampling"
+    ],
+    "a72a45crow10_p1c": [
+        "sampling"
+    ],
+    "a72a45crow10_p1d": [
+        "sampling"
+    ],
+    "a72a45crow10_p1e": [
+        "sampling"
+    ],
+    "a72a45crow10_p1f": [
+        "sampling"
+    ],
+    "a72a45crow10_p1g": [
+        "sampling"
+    ],
+    "a72a45crow10_p1h": [
+        "sampling"
+    ],
+    "a72a45crow10_p1i": [
+        "sampling"
+    ],
+    "a72a45crow10_p1j": [
+        "sampling"
+    ],
+    "a72a45crow10_p1k": [
+        "sampling"
+    ],
+    "a72a45crow10_p1l": [
+        "sampling"
+    ],
+    "a72a45crow10_p1m": [
+        "sampling"
+    ],
+    "a72a45crow10_p2a": [
+        "sampling"
+    ],
+    "a72a45crow10_p2b": [
+        "sampling"
+    ],
+    "a72a45crow10_p2c": [
+        "sampling"
+    ],
+    "a72a45crow10_p2d": [
+        "sampling"
+    ],
+    "a72a45crow2a": [
+        "sampling"
+    ],
+    "a72a45crow2b": [
+        "sampling"
+    ],
+    "a72a45crow2c": [
+        "sampling"
+    ],
+    "a72a45crow2d": [
+        "sampling"
+    ],
+    "a72a45crow3a": [
+        "sampling"
+    ],
+    "a72a45crow3b": [
+        "sampling"
+    ],
+    "a72a45crow4a": [
+        "sampling"
+    ],
+    "a72a45crow4b": [
+        "sampling"
+    ],
+    "a72a45crow6a": [
+        "sampling"
+    ],
+    "a72a45crow6b": [
+        "sampling"
+    ],
+    "a72a45crow6c": [
+        "sampling"
+    ],
+    "a72a45crow6d": [
+        "sampling"
+    ],
+    "a72a45crow6e": [
+        "sampling"
+    ],
+    "a72a45crow6f": [
+        "sampling"
+    ],
+    "a72a45crow6g": [
+        "sampling"
+    ],
+    "a72a45crow8a": [
+        "sampling"
+    ],
+    "a72a45crow8b": [
+        "sampling"
+    ],
+    "aba1299row1a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10f": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10g": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10p2a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10p2b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10p2c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10p2d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10p2e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10p2f": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10p2g": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10p2h": [
+        "modeling_and_regression"
+    ],
+    "aba1299row10p2i": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part2a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part2b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part2c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part2d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part2e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part2f": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3f": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3g": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3h": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3i": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3j": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3k": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part3l": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part4a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row1_part4b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row2a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row3a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row3b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row4a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row4b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row4c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row4d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row4e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row4f": [
+        "modeling_and_regression"
+    ],
+    "aba1299row4g": [
+        "modeling_and_regression"
+    ],
+    "aba1299row4h": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2f": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2g": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2h": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2i": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2j": [
+        "modeling_and_regression"
+    ],
+    "aba1299row5_part2k": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6f": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6g": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6h": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6i": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2f": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2g": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2h": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2i": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2j": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2k": [
+        "modeling_and_regression"
+    ],
+    "aba1299row6p2l": [
+        "modeling_and_regression"
+    ],
+    "aba1299row7a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row7b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row7c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row7d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row7e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row7f": [
+        "modeling_and_regression"
+    ],
+    "aba1299row8a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row8b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row8p2a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row8p2b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row8p2c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row8p2d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2a": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2b": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2c": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2d": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2e": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2f": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2g": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2h": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2i": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2j": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2k": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2l": [
+        "modeling_and_regression"
+    ],
+    "aba1299row9p2m": [
+        "modeling_and_regression"
+    ],
+    "a8c8399ds100-fa19-mt2-Q6a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa19-mt2-Q6b": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12b": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12c": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12d": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12e": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12f": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12g": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12h": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12i": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12j": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12k": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12l": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa20-final-Q12m": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1b": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1c": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1d": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1e": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1f": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1g": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1h": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1i": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1j": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1k": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1l": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1m": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1n": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1o": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1p": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa21-mt-Q1q": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa24-final-Q3da": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa24-final-Q3db": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa24-final-Q3dc": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa24-final-Q3dd": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q2a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q2b": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q2c": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q2d": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q2e": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q4a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6b": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6c": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6d": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6e": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6f": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6g": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6h": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6i": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6j": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6k": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-fa25-mt2-Q6l": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3b": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3c": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3d": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3e": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3f": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3g": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3h": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3i": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3j": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3k": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3l": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3m": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3n": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3o": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp19-final-Q3p": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6b": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6c": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6d": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6e": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6f": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6g": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6h": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6i": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6j": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6k": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6l": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6m": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6n": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6o": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6p": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp22-mt2-Q6q": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3da": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3db": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dc": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dd": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3de": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3df": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dg": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dh": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3di": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dj": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dk": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp24-final-Q3b,Q3c,Q3dl": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-sp25-mt-Q4ba": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4b": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4c": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4d": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4e": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4f": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4g": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4h": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4i": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4j": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4k": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4l": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4m": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4n": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-final-Q4o": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-mt2-Q4a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-mt2-Q4b": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su20-mt2-Q4c": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su21-final-Q8a": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su21-final-Q8b": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su21-final-Q8c": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su21-final-Q8d": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su21-final-Q8e": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su21-final-Q8f": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su21-final-Q8g": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su21-final-Q8h": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su21-final-Q8i": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su21-final-Q8j": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su25-mt-Q3ca": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su25-mt-Q3cb": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su25-mt-Q3cc": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su25-mt-Q3cd": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "a8c8399ds100-su25-mt-Q3ce": [
+        "feature_engineering_and_dimensionality"
+    ],
+    "abf3684ds100-fa23-final-Q2a": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-final-Q2b": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-final-Q2c": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q5ba": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q5bb": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q5bc": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q5bd": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q5be": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q5bf": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q5bg": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q5bh": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7a": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7b": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7c": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7d": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7e": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7f": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7g": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7h": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7i": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7j": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7k": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7l": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa23-mt-Q7m": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa24-final-Q3aa": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa24-final-Q3ab": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa24-final-Q5a,Q5ba": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa24-final-Q5a,Q5bb": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa24-final-Q5a,Q5bc": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa24-final-Q5a,Q5bd": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa24-final-Q6ca": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-fa24-final-Q6cb": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-final-Q2a": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-final-Q2b": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-final-Q2c": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-final-Q2d": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-final-Q2e": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5a": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5b": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5c": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5d": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5e": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5f": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5g": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5h": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5i": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5j": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp24-mt-Q5k": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2a": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2b": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2c": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2d": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2e": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2f": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2g": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2h": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2i": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2j": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2k": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2l": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2m": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2n": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2o": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2p": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2q": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2r": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2s": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-final-Q2t": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-mt-Q3ea": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-sp25-mt-Q3eb": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2a": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2b": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2c": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2d": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2e": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2f": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2g": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2h": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2i": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2j": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2k": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2l": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2m": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2n": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2o": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2p": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2q": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2r": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2s": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2t": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2u": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-final-Q2v": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-mt-Q4b,Q4ca": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-mt-Q4b,Q4cb": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-mt-Q4b,Q4cc": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-mt-Q4b,Q4cd": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-mt-Q4b,Q4ce": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "abf3684ds100-su25-mt-Q4b,Q4cf": [
+        "loss_functions_and_gradient_descent"
+    ],
+    "a9edaf5ds100-fa20-final-Q7a": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa20-final-Q7b": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa20-final-Q7c": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa20-final-Q7d": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1a": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1b": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1c": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1d": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1e": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1f": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1g": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1h": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1i": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1j": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1k": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1l": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1m": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1n": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1o": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1p": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa21-mt-Q1q": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q3fa": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q3fb": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4ca": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4cb": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4cc": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4cd": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4ce": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4cf": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4cg": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4ch": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4ci": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4cj": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4ck": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa24-final-Q4a,Q4b,Q4cl": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q1a": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q1b": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q1c": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6a": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6b": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6c": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6d": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6e": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6f": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6g": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6h": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6i": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6j": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6k": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-fa25-mt2-Q6l": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp21-final-Q13a": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp21-final-Q13b": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp21-final-Q13c": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp21-final-Q13d": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp21-final-Q13e": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp21-final-Q13f": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp21-final-Q13g": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp21-final-Q13h": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5a": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5b": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5c": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5d": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5e": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5f": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5g": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5h": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5i": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5j": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp22-mt2-Q5k": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp24-final-Q4b,Q4c,Q4da": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp24-final-Q4b,Q4c,Q4db": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp24-final-Q4b,Q4c,Q4dc": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp24-final-Q4b,Q4c,Q4dd": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp25-final-Q2a,Q2c,Q2da": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp25-final-Q2a,Q2c,Q2db": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp25-final-Q2a,Q2c,Q2dc": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp25-final-Q2a,Q2c,Q2dd": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp25-final-Q2a,Q2c,Q2de": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp25-final-Q2a,Q2c,Q2df": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp25-final-Q2a,Q2c,Q2dg": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp25-final-Q2a,Q2c,Q2dh": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp25-final-Q2a,Q2c,Q2di": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-sp25-final-Q2a,Q2c,Q2dj": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q11a": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q11b": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q11c": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4a": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4b": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4c": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4d": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4e": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4f": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4g": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4h": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4i": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4j": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4k": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4l": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4m": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4n": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q4o": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q5a": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q5b": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q5c": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q5d": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su20-final-Q5e": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4a": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4b": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4c": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4d": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4e": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4f": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4g": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4h": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4i": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4j": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4k": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4l": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4m": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4n": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4o": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4p": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4q": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4r": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su21-final-Q4s": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su25-final-Q2da": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su25-final-Q2db": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su25-final-Q2dc": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su25-final-Q2dd": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su25-final-Q2de": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su25-final-Q2df": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su25-final-Q2dg": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su25-final-Q2dh": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su25-final-Q2di": [
+        "regularization_and_cross_validation"
+    ],
+    "a9edaf5ds100-su25-final-Q2dj": [
+        "regularization_and_cross_validation"
+    ],
+    "a98a015ds100-fa19-final-Q8a": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-final-Q8b": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-final-Q8c": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-final-Q8d": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-final-Q8e": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1a": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1b": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1c": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1d": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1e": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1f": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1g": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1h": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1i": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1j": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1k": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1l": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1m": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1n": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1o": [
+        "pca"
+    ],
+    "a98a015ds100-fa19-mt2-Q1p": [
+        "pca"
+    ],
+    "a98a015ds100-fa20-final-Q10a": [
+        "pca"
+    ],
+    "a98a015ds100-fa20-final-Q10b": [
+        "pca"
+    ],
+    "a98a015ds100-fa20-final-Q10c": [
+        "pca"
+    ],
+    "a98a015ds100-fa20-final-Q10d": [
+        "pca"
+    ],
+    "a98a015ds100-fa20-final-Q10e": [
+        "pca"
+    ],
+    "a98a015ds100-fa20-final-Q10f": [
+        "pca"
+    ],
+    "a98a015ds100-fa24-final-Q7a": [
+        "pca"
+    ],
+    "a98a015ds100-fa24-final-Q7b": [
+        "pca"
+    ],
+    "a98a015ds100-fa24-final-Q7c": [
+        "pca"
+    ],
+    "a98a015ds100-fa24-final-Q7d": [
+        "pca"
+    ],
+    "a98a015ds100-fa24-final-Q7e": [
+        "pca"
+    ],
+    "a98a015ds100-fa24-final-Q7f": [
+        "pca"
+    ],
+    "a98a015ds100-fa24-final-Q7g": [
+        "pca"
+    ],
+    "a98a015ds100-fa24-final-Q7h": [
+        "pca"
+    ],
+    "a98a015ds100-fa24-final-Q7i": [
+        "pca"
+    ],
+    "a98a015ds100-fa24-final-Q7j": [
+        "pca"
+    ],
+    "a98a015ds100-sp19-final-Q6ca": [
+        "pca"
+    ],
+    "a98a015ds100-sp19-final-Q6cb": [
+        "pca"
+    ],
+    "a98a015ds100-sp19-final-Q6cc": [
+        "pca"
+    ],
+    "a98a015ds100-sp19-final-Q6cd": [
+        "pca"
+    ],
+    "a98a015ds100-sp21-final-Q11a": [
+        "pca"
+    ],
+    "a98a015ds100-sp21-final-Q11b": [
+        "pca"
+    ],
+    "a98a015ds100-sp21-final-Q11c": [
+        "pca"
+    ],
+    "a98a015ds100-sp21-final-Q11d": [
+        "pca"
+    ],
+    "a98a015ds100-sp21-final-Q11e": [
+        "pca"
+    ],
+    "a98a015ds100-sp21-final-Q11f": [
+        "pca"
+    ],
+    "a98a015ds100-sp21-final-Q11g": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9a": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9b": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9c": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9d": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9e": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9f": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9g": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9h": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9i": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9j": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9k": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9l": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9m": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9n": [
+        "pca"
+    ],
+    "a98a015ds100-sp24-final-Q9o": [
+        "pca"
+    ],
+    "a98a015ds100-sp25-final-Q4a,Q4ba": [
+        "pca"
+    ],
+    "a98a015ds100-sp25-final-Q4a,Q4bb": [
+        "pca"
+    ],
+    "a98a015ds100-sp25-final-Q4a,Q4bc": [
+        "pca"
+    ],
+    "a98a015ds100-sp25-final-Q4a,Q4bd": [
+        "pca"
+    ],
+    "a98a015ds100-sp25-final-Q4a,Q4be": [
+        "pca"
+    ],
+    "a98a015ds100-sp25-final-Q4a,Q4bf": [
+        "pca"
+    ],
+    "a98a015ds100-sp25-final-Q4a,Q4bg": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2ba": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2bb": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2bc": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2bd": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2be": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2bf": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2bg": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2bh": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2bi": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2bj": [
+        "pca"
+    ],
+    "a98a015ds100-su19-final-Q2bk": [
+        "pca"
+    ],
+    "a98a015ds100-su20-final-Q7a": [
+        "pca"
+    ],
+    "a98a015ds100-su20-final-Q7b": [
+        "pca"
+    ],
+    "a98a015ds100-su20-final-Q7c": [
+        "pca"
+    ],
+    "a98a015ds100-su20-final-Q8a": [
+        "pca"
+    ],
+    "a98a015ds100-su20-final-Q8b": [
+        "pca"
+    ],
+    "a98a015ds100-su20-final-Q8c": [
+        "pca"
+    ],
+    "a98a015ds100-su20-final-Q8d": [
+        "pca"
+    ],
+    "a98a015ds100-su20-final-Q8e": [
+        "pca"
+    ],
+    "a98a015ds100-su20-final-Q8f": [
+        "pca"
+    ],
+    "a98a015ds100-su20-final-Q8g": [
+        "pca"
+    ],
+    "a98a015ds100-su25-final-Q3da": [
+        "pca"
+    ],
+    "a98a015ds100-su25-final-Q3db": [
+        "pca"
+    ],
+    "a98a015ds100-su25-final-Q3dc": [
+        "pca"
+    ],
+    "a98a015ds100-su25-final-Q3dd": [
+        "pca"
+    ],
+    "a98a015ds100-su25-final-Q3de": [
+        "pca"
+    ],
+    "a89b247ds100-fa17-final-Q16a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa17-final-Q17a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q13a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q13b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q13c": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q13d": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q13e": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q13f": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q13g": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q13h": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q14a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q14b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q14c": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q14d": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q14e": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q14f": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q14g": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa18-final-Q14h": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa19-mt2-Q3a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa19-mt2-Q3b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa19-mt2-Q3c": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa19-mt2-Q3d": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa19-mt2-Q3e": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa19-mt2-Q3f": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa20-final-Q6a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa20-final-Q6b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa20-final-Q6c": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa20-final-Q6d": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa20-final-Q6e": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa20-final-Q6f": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa20-final-Q6g": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa21-mt-Q2a": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2b": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2c": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2d": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2e": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2f": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2g": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2h": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2i": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2j": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2k": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2l": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2m": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2n": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2o": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2p": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2q": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2r": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2s": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2t": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2u": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2v": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa21-mt-Q2w": [
+        "https://ds100.org/su26/past_exams/"
+    ],
+    "a89b247ds100-fa24-final-Q3ba": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6c": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6d": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6e": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6f": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6g": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6h": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6i": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6j": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6k": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6l": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6m": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6n": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6o": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6p": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6q": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6r": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6s": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6t": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6u": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6v": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6w": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-fa25-mt2-Q6x": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp17-final-Q7a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp17-final-Q7b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp17-final-Q7c": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp17-final-Q7d": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp19-final-Q8a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp19-final-Q8b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp19-final-Q8c": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp19-final-Q8d": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp19-final-Q8e": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp21-final-Q12a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp21-final-Q12b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp22-mt2-Q2a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp22-mt2-Q2b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6c": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6d": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6e": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6f": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6g": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6h": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6i": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6j": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6k": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp24-final-Q6l": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp25-final-Q2ba": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp25-final-Q2bb": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-sp25-final-Q2bc": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6a": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6b": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6c": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6d": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6e": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6f": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6g": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6h": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6i": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6j": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6k": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6l": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6m": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6n": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6o": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6p": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6q": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6r": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6s": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6t": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6u": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6v": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6w": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6x": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6y": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6z": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6{": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6|": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6}": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6~": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6\u007f": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6\u0080": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su19-final-Q6\u0081": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5aa": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5ab": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5ac": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5ad": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5ae": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5af": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5ag": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5ah": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5ai": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5aj": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5ak": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5al": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5am": [
+        "bias_and_variance"
+    ],
+    "a89b247ds100-su20-final-Q5an": [
+        "bias_and_variance"
+    ],
+    "aea05a2ds100-fa20-final-Q13a": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa20-final-Q13b": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa20-final-Q13c": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa20-final-Q13d": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa20-final-Q13e": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa20-final-Q13f": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa20-final-Q14a": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa20-final-Q14b": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa20-final-Q14c": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8a": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8b": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8c": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8d": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8e": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8f": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8g": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8h": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8i": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8j": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8k": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8l": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-fa24-final-Q8m": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp18-final-Q14a": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp18-final-Q14b": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp18-final-Q15a": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp18-final-Q15b": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp18-final-Q15c": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp18-final-Q15d": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp18-final-Q15e": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp19-final-Q10a": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp19-final-Q10b": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp19-final-Q10c": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp19-final-Q10d": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp24-final-Q10a": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp24-final-Q10b": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp24-final-Q10c": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp24-final-Q10d": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp24-final-Q10e": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp24-final-Q10f": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp24-final-Q10g": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp24-final-Q10h": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp25-final-Q4c,Q4da": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp25-final-Q4c,Q4db": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp25-final-Q4c,Q4dc": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp25-final-Q4c,Q4dd": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp25-final-Q4c,Q4de": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp25-final-Q4c,Q4df": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp25-final-Q4c,Q4dg": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-sp25-final-Q4c,Q4dh": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su20-final-Q2a": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su20-final-Q2b": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su20-final-Q2c": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q10a": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q10b": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q10c": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q10d": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q10e": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q10f": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q10g": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q9a": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q9b": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q9c": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su21-final-Q9d": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su25-final-Q3e,Q3f,Q3ga": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su25-final-Q3e,Q3f,Q3gb": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su25-final-Q3e,Q3f,Q3gc": [
+        "clustering_and_big_data"
+    ],
+    "aea05a2ds100-su25-final-Q3e,Q3f,Q3gd": [
+        "clustering_and_big_data"
+    ],
+    "a1bb75eds100-fa19-final-Q12ca": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5f": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5g": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5h": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5i": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5j": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5k": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5l": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5m": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5n": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q5o": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q6a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q6b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q7a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q7b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q7c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q7d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q7e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q7f": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-final-Q7g": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7f": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7g": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7h": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7i": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7j": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7k": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa19-mt2-Q7l": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9f": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9g": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9h": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9i": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9j": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9k": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9l": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa20-final-Q9m": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa24-final-Q6aa": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-fa24-final-Q6ab": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp19-final-Q5aa": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp19-final-Q5ab": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp19-final-Q5ac": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp19-final-Q5ad": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q4a,Q4b,Q4ca": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q4a,Q4b,Q4cb": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q4a,Q4b,Q4cc": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q4a,Q4b,Q4cd": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q4a,Q4b,Q4ce": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q4a,Q4b,Q4cf": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q4a,Q4b,Q4cg": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q4a,Q4b,Q4ch": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q4a,Q4b,Q4ci": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q9a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q9b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q9c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q9d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q9e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q9f": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp21-final-Q9g": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp24-final-Q8a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp24-final-Q8b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp24-final-Q8c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp24-final-Q8d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp24-final-Q8e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp24-final-Q8f": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp25-final-Q3e,Q3fa": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp25-final-Q3e,Q3fb": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp25-final-Q3e,Q3fc": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp25-final-Q3e,Q3fd": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp25-final-Q3e,Q3fe": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp25-final-Q3e,Q3ff": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp25-final-Q3e,Q3fg": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-sp25-final-Q3e,Q3fh": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q7a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q7b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q7c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q7d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q7e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q7f": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q7g": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q7h": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q7i": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q8a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q8b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q8c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q8d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su19-final-Q8e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6f": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6g": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6h": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6i": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6j": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-final-Q6k": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-mt2-Q7a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-mt2-Q7b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-mt2-Q7c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-mt2-Q7d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-mt2-Q7e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-mt2-Q8a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-mt2-Q8b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-mt2-Q8c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su20-mt2-Q8d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q6a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q6b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q6c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q6d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q6e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q6f": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q6g": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q6h": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q6i": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7a": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7b": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7c": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7d": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7e": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7f": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7g": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7h": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7i": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7j": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7k": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7l": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7m": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7n": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7o": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7p": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7q": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7r": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7s": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su21-final-Q7t": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su25-final-Q3a,Q3b,Q3ca": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su25-final-Q3a,Q3b,Q3cb": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su25-final-Q3a,Q3b,Q3cc": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su25-final-Q3a,Q3b,Q3cd": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su25-final-Q3a,Q3b,Q3ce": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su25-final-Q3a,Q3b,Q3cf": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su25-final-Q3a,Q3b,Q3cg": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su25-final-Q3a,Q3b,Q3ch": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su25-final-Q3a,Q3b,Q3ci": [
+        "logistic_regression_and_classification"
+    ],
+    "a1bb75eds100-su25-final-Q3a,Q3b,Q3cj": [
+        "logistic_regression_and_classification"
+    ],
+    "a92ac99ds100-fa17-final-Q10a": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-final-Q10b": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-final-Q10c": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-final-Q10d": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-final-Q10e": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-final-Q10f": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-final-Q10g": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-final-Q10h": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-final-Q10i": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-final-Q11a": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-final-Q11b": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-mt-Q25a": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-mt-Q25b": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-mt-Q25c": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-mt-Q25d": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-mt-Q26a": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-mt-Q27a": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-mt-Q27b": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-mt-Q27c": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-mt-Q27d": [
+        "inference"
+    ],
+    "a92ac99ds100-fa17-mt-Q27e": [
+        "inference"
+    ],
+    "a92ac99ds100-fa18-final-Q5a": [
+        "inference"
+    ],
+    "a92ac99ds100-fa18-final-Q5b": [
+        "inference"
+    ],
+    "a92ac99ds100-fa18-final-Q5c": [
+        "inference"
+    ],
+    "a92ac99ds100-fa18-final-Q5d": [
+        "inference"
+    ],
+    "a92ac99ds100-fa18-final-Q5e": [
+        "inference"
+    ],
+    "a92ac99ds100-fa18-final-Q5f": [
+        "inference"
     ],
     "a11c719lang1a": [
         "find_factors",
@@ -19231,6 +22000,12 @@
     "a590f38trigonometric23a": [
         "solving_trigonometric_equations"
     ],
+    "a590f38trigonometric24a": [
+        "solving_trigonometric_equations"
+    ],
+    "a590f38trigonometric25a": [
+        "solving_trigonometric_equations"
+    ],
     "a590f38trigonometric26a": [
         "solving_trigonometric_equations"
     ],
@@ -19333,6 +22108,9 @@
     "a590f38trigonometric43e": [
         "solving_trigonometric_equations"
     ],
+    "a590f38trigonometric44a": [
+        "solving_trigonometric_equations"
+    ],
     "a590f38trigonometric45a": [
         "solving_trigonometric_equations"
     ],
@@ -19388,6 +22166,18 @@
         "solving_trigonometric_equations"
     ],
     "a590f38trigonometric62a": [
+        "solving_trigonometric_equations"
+    ],
+    "a590f38trigonometric63a": [
+        "solving_trigonometric_equations"
+    ],
+    "a590f38trigonometric63b": [
+        "solving_trigonometric_equations"
+    ],
+    "a590f38trigonometric63c": [
+        "solving_trigonometric_equations"
+    ],
+    "a590f38trigonometric63d": [
         "solving_trigonometric_equations"
     ],
     "a590f38trigonometric64a": [
@@ -46463,6 +49253,9 @@
     "a56bd16newtonapps23b": [
         "drag_force_and_terminal_speed"
     ],
+    "a56bd16newtonapps24a": [
+        "drag_force_and_terminal_speed"
+    ],
     "a56bd16newtonapps25a": [
         "drag_force_and_terminal_speed"
     ],
@@ -46566,6 +49359,12 @@
         "power"
     ],
     "ab002b1power5a": [
+        "power"
+    ],
+    "ab002b1power6a": [
+        "power"
+    ],
+    "ab002b1power6b": [
         "power"
     ],
     "ab002b1wet1a": [
@@ -47660,6 +50459,567 @@
     ],
     "a028737sound9c": [
         "speed_of_sound"
+    ],
+    "a253a12exp1a": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp1b": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp1c": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp10a": [
+        "using_the_quotient_exponent_rule_of_exponents"
+    ],
+    "a253a12exp10b": [
+        "using_the_quotient_exponent_rule_of_exponents"
+    ],
+    "a253a12exp10c": [
+        "using_the_quotient_exponent_rule_of_exponents"
+    ],
+    "a253a12exp11a": [
+        "using_the_negative_exponent_rule_of_exponents"
+    ],
+    "a253a12exp11b": [
+        "using_the_negative_exponent_rule_of_exponents"
+    ],
+    "a253a12exp11c": [
+        "using_the_negative_exponent_rule_of_exponents"
+    ],
+    "a253a12exp12a": [
+        "using_the_product_exponent_rule_of_exponents"
+    ],
+    "a253a12exp12b": [
+        "using_the_product_exponent_rule_of_exponents"
+    ],
+    "a253a12exp13a": [
+        "finding_the_power_of_a_product"
+    ],
+    "a253a12exp13b": [
+        "finding_the_power_of_a_product"
+    ],
+    "a253a12exp13c": [
+        "finding_the_power_of_a_product"
+    ],
+    "a253a12exp14a": [
+        "finding_the_power_of_a_product"
+    ],
+    "a253a12exp14b": [
+        "finding_the_power_of_a_product"
+    ],
+    "a253a12exp14c": [
+        "finding_the_power_of_a_product"
+    ],
+    "a253a12exp15a": [
+        "finding_the_quotient_of_a_product"
+    ],
+    "a253a12exp15b": [
+        "finding_the_quotient_of_a_product"
+    ],
+    "a253a12exp15c": [
+        "finding_the_quotient_of_a_product"
+    ],
+    "a253a12exp16a": [
+        "finding_the_quotient_of_a_product"
+    ],
+    "a253a12exp16b": [
+        "finding_the_quotient_of_a_product"
+    ],
+    "a253a12exp16c": [
+        "finding_the_quotient_of_a_product"
+    ],
+    "a253a12exp17a": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp17b": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp17c": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp18a": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp18b": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp18c": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp19a": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp19b": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp19c": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp19d": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp2a": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp2b": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp2c": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp20a": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp20b": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp20c": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp20d": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp21a": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp21b": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp22a": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp23a": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp24a": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp25a": [
+        "using_scientific_notation"
+    ],
+    "a253a12exp3a": [
+        "using_the_quotient_rule_of_exponents"
+    ],
+    "a253a12exp3b": [
+        "using_the_quotient_rule_of_exponents"
+    ],
+    "a253a12exp3c": [
+        "using_the_quotient_rule_of_exponents"
+    ],
+    "a253a12exp4a": [
+        "using_the_quotient_rule_of_exponents"
+    ],
+    "a253a12exp4b": [
+        "using_the_quotient_rule_of_exponents"
+    ],
+    "a253a12exp4c": [
+        "using_the_quotient_rule_of_exponents"
+    ],
+    "a253a12exp5a": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp5b": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp5c": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp6a": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp6b": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp6c": [
+        "using_the_power_rule_of_exponents"
+    ],
+    "a253a12exp7a": [
+        "using_the_zero_exponent_rule_of_exponents"
+    ],
+    "a253a12exp7b": [
+        "using_the_zero_exponent_rule_of_exponents"
+    ],
+    "a253a12exp7c": [
+        "using_the_zero_exponent_rule_of_exponents"
+    ],
+    "a253a12exp8a": [
+        "using_the_zero_exponent_rule_of_exponents"
+    ],
+    "a253a12exp8b": [
+        "using_the_zero_exponent_rule_of_exponents"
+    ],
+    "a253a12exp8c": [
+        "using_the_zero_exponent_rule_of_exponents"
+    ],
+    "a253a12exp9a": [
+        "using_the_negative_exponent_rule_of_exponents"
+    ],
+    "a253a12exp9b": [
+        "using_the_negative_exponent_rule_of_exponents"
+    ],
+    "a253a12exp9c": [
+        "using_the_negative_exponent_rule_of_exponents"
+    ],
+    "a3dd710RecCord1a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord1b": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord10a": [
+        "using_the_distance_formula"
+    ],
+    "a3dd710RecCord11a": [
+        "using_the_distance_formula"
+    ],
+    "a3dd710RecCord11b": [
+        "using_the_distance_formula"
+    ],
+    "a3dd710RecCord12a": [
+        "using_the_distance_formula"
+    ],
+    "a3dd710RecCord13a": [
+        "using_the_distance_formula"
+    ],
+    "a3dd710RecCord14a": [
+        "using_the_distance_formula"
+    ],
+    "a3dd710RecCord15a": [
+        "using_the_midpoint_formula"
+    ],
+    "a3dd710RecCord16a": [
+        "using_the_midpoint_formula"
+    ],
+    "a3dd710RecCord17a": [
+        "using_the_midpoint_formula"
+    ],
+    "a3dd710RecCord18a": [
+        "using_the_midpoint_formula"
+    ],
+    "a3dd710RecCord19a": [
+        "using_the_midpoint_formula"
+    ],
+    "a3dd710RecCord2a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord2b": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord20a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord21a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord22a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord23a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord24a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord25a": [
+        "using_the_distance_formula"
+    ],
+    "a3dd710RecCord26a": [
+        "using_the_distance_formula"
+    ],
+    "a3dd710RecCord27a": [
+        "using_the_distance_formula"
+    ],
+    "a3dd710RecCord3a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord3b": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord4a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord4b": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord5a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord5b": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord6a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord7a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord8a": [
+        "finding_x_intercepts_and_y_intercepts"
+    ],
+    "a3dd710RecCord9a": [
+        "using_the_distance_formula"
+    ],
+    "a69a9c8rate1a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate10a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate11a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate12a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate13a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate14a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate15a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate16a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate17a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate18a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate19a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate2a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate20a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate3a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate4a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate5a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate6a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate7a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate8a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rate9a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rates1a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rates2a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rates3a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rates4a": [
+        "finding_the_average_rate_of_change_of_a_function"
+    ],
+    "a69a9c8rates5a": [
+        "using_a_graph_to_determine_where_a_function_is_increasing",
+        "decreasing",
+        "or_constant"
+    ],
+    "a69a9c8rates6a": [
+        "using_a_graph_to_determine_where_a_function_is_increasing",
+        "decreasing",
+        "or_constant"
+    ],
+    "a69a9c8rates6b": [
+        "using_a_graph_to_determine_where_a_function_is_increasing",
+        "decreasing",
+        "or_constant"
+    ],
+    "a69a9c8rates7a": [
+        "use_a_graph_to_locate_the_absolute_maximum_and_absolute_minimum"
+    ],
+    "a69a9c8rates7b": [
+        "use_a_graph_to_locate_the_absolute_maximum_and_absolute_minimum"
+    ],
+    "a4dc570trig1a": [
+        "radian_measure"
+    ],
+    "a4dc570trig10a": [
+        "radian_measure"
+    ],
+    "a4dc570trig11a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig12a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig13a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig14a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig15a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig16a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig17a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig17b": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig17c": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig17d": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig17e": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig17f": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig17g": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig18a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig18b": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig18c": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig18d": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig18e": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig18f": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig18g": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig19a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig19b": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig19c": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig19d": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig19e": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig19f": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig19g": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig2a": [
+        "radian_measure"
+    ],
+    "a4dc570trig20a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig20b": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig20c": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig20d": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig20e": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig20f": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig20g": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig21a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig21b": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig21c": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig21d": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig21e": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig21f": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig21g": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig22a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig23a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig24a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig25a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig26a": [
+        "trigonometric_identities"
+    ],
+    "a4dc570trig3a": [
+        "radian_measure"
+    ],
+    "a4dc570trig4a": [
+        "radian_measure"
+    ],
+    "a4dc570trig5a": [
+        "radian_measure"
+    ],
+    "a4dc570trig6a": [
+        "radian_measure"
+    ],
+    "a4dc570trig7a": [
+        "radian_measure"
+    ],
+    "a4dc570trig8a": [
+        "radian_measure"
+    ],
+    "a4dc570trig9a": [
+        "radian_measure"
     ],
     "af9a055chem1a": [
         "module_a"
@@ -50293,5 +53653,758 @@
     ],
     "a736a57T3-diag-P13a": [
         "identify_the_graph_of_an_inverse_trig_function"
+    ],
+    "ace788cLimitLaw1a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitLaw10a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitLaw2a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitLaw3a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitLaw4a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitLaw5a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitLaw6a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitLaw7a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitLaw8a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitLaw9a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw11a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw12a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw13a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw14a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw15a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw16a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw17a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw18a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw19a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw20a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw21a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw22a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw23a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw24a": [
+        "the_limit_laws"
+    ],
+    "ace788cLimitlLaw25a": [
+        "the_limit_laws"
+    ],
+    "ace788climit1a": [
+        "intuitive_definition_of_a_limit"
+    ],
+    "ace788climit10a": [
+        "infinite_limits"
+    ],
+    "ace788climit11a": [
+        "infinite_limits"
+    ],
+    "ace788climit12a": [
+        "infinite_limits"
+    ],
+    "ace788climit13a": [
+        "infinite_limits"
+    ],
+    "ace788climit14a": [
+        "infinite_limits"
+    ],
+    "ace788climit15a": [
+        "infinite_limits"
+    ],
+    "ace788climit16a": [
+        "infinite_limits"
+    ],
+    "ace788climit17a": [
+        "infinite_limits"
+    ],
+    "ace788climit18a": [
+        "infinite_limits"
+    ],
+    "ace788climit19a": [
+        "infinite_limits"
+    ],
+    "ace788climit2a": [
+        "intuitive_definition_of_a_limit"
+    ],
+    "ace788climit20a": [
+        "infinite_limits"
+    ],
+    "ace788climit21a": [
+        "infinite_limits"
+    ],
+    "ace788climit22a": [
+        "infinite_limits"
+    ],
+    "ace788climit23a": [
+        "infinite_limits"
+    ],
+    "ace788climit24a": [
+        "infinite_limits"
+    ],
+    "ace788climit25a": [
+        "one_sided_limits"
+    ],
+    "ace788climit3a": [
+        "intuitive_definition_of_a_limit"
+    ],
+    "ace788climit4a": [
+        "the_existence_of_a_limit"
+    ],
+    "ace788climit5a": [
+        "one_sided_limits"
+    ],
+    "ace788climit6a": [
+        "one_sided_limits"
+    ],
+    "ace788climit7a": [
+        "infinite_limits"
+    ],
+    "ace788climit8a": [
+        "infinite_limits"
+    ],
+    "ace788climit9a": [
+        "infinite_limits"
+    ],
+    "aa58d65c1a": [
+        "continuity_at_a_point"
+    ],
+    "aa58d65c10a": [
+        "the_intermediate_value_theorem"
+    ],
+    "aa58d65c2a": [
+        "continuity_at_a_point"
+    ],
+    "aa58d65c3a": [
+        "continuity_at_a_point"
+    ],
+    "aa58d65c4a": [
+        "types_of_discontinuities"
+    ],
+    "aa58d65c5a": [
+        "types_of_discontinuities"
+    ],
+    "aa58d65c6a": [
+        "types_of_discontinuities"
+    ],
+    "aa58d65c7a": [
+        "continuity_over_an_interval"
+    ],
+    "aa58d65c8a": [
+        "limit_of_a_composite_cosine_function"
+    ],
+    "aa58d65c9a": [
+        "the_intermediate_value_theorem"
+    ],
+    "a18ab21limits1a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits10a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits11a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits12a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits13a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits14a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits15a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits16a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits17a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits18a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits19a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits2a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits20a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits21a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits22a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits23a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits24a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits25a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits3a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits4a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits5a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits6a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits7a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits8a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a18ab21limits9a": [
+        "limits_at_infinity_and_asymptotes"
+    ],
+    "a6c9e74DerivativeFunction1a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction10a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction10b": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction11a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction11b": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction12a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction13a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction14a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction15a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction2a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction3a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction4a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction5a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction6a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction7a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction8a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction8b": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction9a": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74DerivativeFunction9b": [
+        "the_derivative_as_a_function"
+    ],
+    "a6c9e74def1a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def10a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def11a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def12a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def13a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def14a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def15a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def16a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def16b": [
+        "derivative_definition"
+    ],
+    "a6c9e74def16c": [
+        "derivative_definition"
+    ],
+    "a6c9e74def17a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def17b": [
+        "derivative_definition"
+    ],
+    "a6c9e74def18a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def19a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def2a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def20a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def20b": [
+        "derivative_definition"
+    ],
+    "a6c9e74def21a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def21b": [
+        "derivative_definition"
+    ],
+    "a6c9e74def22a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def22b": [
+        "derivative_definition"
+    ],
+    "a6c9e74def23a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def24a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def25a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def26a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def3a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def4a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def5a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def6a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def7a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def8a": [
+        "derivative_definition"
+    ],
+    "a6c9e74def9a": [
+        "derivative_definition"
+    ],
+    "a23b17fderiv1a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv10a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv11a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv12a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv13a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv14a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv15a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv16a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv17a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv18a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv19a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv2a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv20a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv21a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv22a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv23a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv24a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv25a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv3a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv4a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv5a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv6a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv7a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv8a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderiv9a": [
+        "derivatives_of_trigonometric_functions"
+    ],
+    "a23b17fderivative1a": [
+        "differentiation_rules"
+    ],
+    "a23b17fderivative2a": [
+        "differentiation_rules"
+    ],
+    "a23b17fderivative3a": [
+        "differentiation_rules"
+    ],
+    "a23b17fderivative4a": [
+        "differentiation_rules"
+    ],
+    "a23b17fderivative5a": [
+        "differentiation_rules"
+    ],
+    "a23b17fderivativetangent1a": [
+        "differentiation_rules"
+    ],
+    "a23b17fderivativetangent2a": [
+        "differentiation_rules"
+    ],
+    "a23b17fderivativetangent3a": [
+        "differentiation_rules"
+    ],
+    "a23b17fderivativetangent4a": [
+        "differentiation_rules"
+    ],
+    "a23b17ftangentline1a": [
+        "differentiation_rules"
+    ],
+    "a23b17ftangentline2a": [
+        "differentiation_rules"
+    ],
+    "a23b17ftangentline3a": [
+        "differentiation_rules"
+    ],
+    "a23b17ftangentline4a": [
+        "differentiation_rules"
+    ],
+    "a23b17ftangentline5a": [
+        "differentiation_rules"
+    ],
+    "a23b17ftangentline6a": [
+        "differentiation_rules"
+    ],
+    "a23b17ftangentline7a": [
+        "differentiation_rules"
+    ],
+    "a23b17ftangentline8a": [
+        "differentiation_rules"
+    ],
+    "a23b17fvelocity1a": [
+        "differentiation_rules"
+    ],
+    "a5a6756chainrule1a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule10a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule11a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule12a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule13a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule14a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule15a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule2a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule3a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule4a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule5a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule6a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule7a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule8a": [
+        "the_chain_rule"
+    ],
+    "a5a6756chainrule9a": [
+        "the_chain_rule"
+    ],
+    "a5a6756deriv1a": [
+        "amount_of_change_formula"
+    ],
+    "a5a6756deriv10a": [
+        "population_change"
+    ],
+    "a5a6756deriv11a": [
+        "changes_in_cost_and_revenue"
+    ],
+    "a5a6756deriv12a": [
+        "changes_in_cost_and_revenue"
+    ],
+    "a5a6756deriv13a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv14a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv15a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv16a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv17a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv18a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv19a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv2a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv20a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv3a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv4a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv5a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv6a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv7a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv8a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756deriv9a": [
+        "motion_along_a_line"
+    ],
+    "a5a6756derivative10a": [
+        "differentiation_rules"
+    ],
+    "a5a6756derivative11a": [
+        "differentiation_rules"
+    ],
+    "a5a6756derivative12a": [
+        "differentiation_rules"
+    ],
+    "a5a6756derivative6a": [
+        "differentiation_rules"
+    ],
+    "a5a6756derivative7a": [
+        "differentiation_rules"
+    ],
+    "a5a6756derivative8a": [
+        "differentiation_rules"
+    ],
+    "a5a6756derivative9a": [
+        "differentiation_rules"
+    ],
+    "a17ac4finverse1a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse10a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse10b": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse11a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse11b": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse12a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse13a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse14a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse15a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse16a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse17a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse18a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse19a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse2a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse20a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse21a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse22a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse23a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse24a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse25a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse3a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse4a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse5a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse6a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse7a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse7b": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse8a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse8b": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse9a": [
+        "deriving_an_inverse_function"
+    ],
+    "a17ac4finverse9b": [
+        "deriving_an_inverse_function"
     ]
 }

@@ -4,7 +4,7 @@
         "$$2.4$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the ratio of the horizontal-strand tension to the vertical-strand tension? (give the numerical value only)",
+    "stepTitle": "What is the ratio of the horizontal-strand tension to the vertical-strand tension?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

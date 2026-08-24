@@ -33,7 +33,7 @@
             "abaea60linmom9a-h2"
         ],
         "title": "Player's Velocity Calculation",
-        "text": "The momentum of the puck is $$0.15\\times45$$. Set this equal to the player's momentum, $$90v$$, and solve for v.",
+        "text": "The momentum of the puck is $$0.15\\times45$$. Set this equal to the player's momentum, $$90v$$, and solve for $$v$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -45,7 +45,7 @@
             "abaea60linmom9a-h3"
         ],
         "title": "Time for the Puck to Reach the Goal",
-        "text": "Calculate the time it takes for the puck to travel $$15.0$$ $$m$$ to the goal. Use the formula: time $$=$$ $$\\frac{distance}{velocity}$$.",
+        "text": "Calculate the time it takes for the puck to travel $$15.0\\, \\text{m}$$ to the goal. Use the formula: time $$=$$ $$\\frac{distance}{velocity}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

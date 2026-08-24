@@ -1,18 +1,17 @@
 {
     "id": "ace918bnlaws29a",
     "stepAnswer": [
-        "$$(5.0\\hat{i}+3.0\\hat{j})/m$$ $$\\frac{m}{s^2}$$"
+        "$$((5.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}})\\hat{i}+(3.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}})\\hat{j})/m$$"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Find the acceleration vector in terms of $$m$$.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$(5.0\\hat{i}+3.0\\hat{j})/m$$ $$\\frac{m}{s^2}$$",
     "choices": [
-        "$$(5.0\\hat{i}+3.0\\hat{j})/m$$ $$\\frac{m}{s^2}$$",
-        "$$(5.0\\hat{i}+3.0\\hat{j})$$ $$\\frac{m}{s^2}$$",
-        "$$(5.0\\hat{i}+3.0\\hat{j})*m$$ $$\\frac{m}{s^2}$$",
-        "$$(11.0\\hat{i}-3.0\\hat{j})/m$$ $$\\frac{m}{s^2}$$"
+        "$$((5.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}})\\hat{i}+(3.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}})\\hat{j})/m$$",
+        "$$((5.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}})\\hat{i}+(3.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}})\\hat{j})$$",
+        "$$((5.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}})\\hat{i}+(3.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}})\\hat{j})*m$$",
+        "$$((11.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}})\\hat{i}-(3.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}})\\hat{j})/m$$"
     ]
 }

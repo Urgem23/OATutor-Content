@@ -4,7 +4,7 @@
         "$$298$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find its magnitude. (give the numerical value only, force in N)",
+    "stepTitle": "Find its magnitude (in $$\\text{N}\\$\\$)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

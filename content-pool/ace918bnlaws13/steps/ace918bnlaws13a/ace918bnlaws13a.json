@@ -4,7 +4,7 @@
         "$$497$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the magnitude of the force exerted by his glove on the ball? (give the numerical value only, force in N)",
+    "stepTitle": "What is the magnitude of the force exerted by his glove on the ball (in $$\\text{N}\\$\\$)$$?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

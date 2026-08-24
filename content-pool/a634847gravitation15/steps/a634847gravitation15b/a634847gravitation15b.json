@@ -4,7 +4,7 @@
         "$$217000$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Calculate the average speed of the Sun in its galactic orbit. (give the numerical value only, speed in m/s)",
+    "stepTitle": "Calculate the average speed of the Sun in its galactic orbit (in $$\\tfrac{\\text{m}}{\\text{s}}\\$\\$)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

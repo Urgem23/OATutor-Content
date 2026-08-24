@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Relationship",
-        "text": "To find the mass of the astronaut, you can use Newton's second law of motion, which states that force equals mass times acceleration (F=m*a).",
+        "text": "To find the mass of the astronaut, you can use Newton's second law of motion, which states that force equals mass times acceleration $$(F=ma)$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "ace918bnlaws4a-h1"
         ],
         "title": "Rearranging the Formula",
-        "text": "Rearrange the formula $$F=m a$$ to solve for mass (m).",
+        "text": "Rearrange the formula $$F=ma$$ to solve for mass \\,\\text{m}.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "ace918bnlaws4a-h2"
         ],
         "title": "Calculate the Mass",
-        "text": "Using the formula $$m=\\frac{F}{a}$$, substitute the given values: $$F=50.0N$$ and $$a=\\frac{0.893m}{s^2}$$.",
+        "text": "Using the formula $$m=\\frac{F}{a}$$, $$substitute$$ $$the$$ $$given$$ $$values$$: $$F=50.0N$$ and $$a=0.893m/s**{2}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

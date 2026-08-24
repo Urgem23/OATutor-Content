@@ -4,7 +4,7 @@
         "$$20.1$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is his initial speed? (give the numerical value only, speed in m/s)",
+    "stepTitle": "What is his initial speed (in $$\\tfrac{\\text{m}}{\\text{s}}\\$\\$)$$?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -4,7 +4,7 @@
         "$$17$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "How far apart will they be at that point? (give the numerical value only, distance in kilometers)",
+    "stepTitle": "How far apart will they be at that point (in $$\\text{kilometers}\\$\\$)$$?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -1,7 +1,7 @@
 {
     "id": "aea001bfluids15",
     "title": "Pitot Tube",
-    "body": "The pressure reading of your pitot tube is $$15.0$$ mm Hg at a speed of $$200$$ $$\\frac{km}{h}$$.",
+    "body": "The pressure reading of your pitot tube is $$15.0\\,\\text{mm~Hg}$$ at a speed of $$200\\, \\tfrac{\\text{km}}{\\text{hr}}$$.",
     "variabilization": {},
     "oer": "https://openstax.org/books/university-physics-volume-1/pages/14-problems",
     "license": "",

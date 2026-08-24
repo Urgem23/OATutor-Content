@@ -16,7 +16,7 @@
             "ace918bnlaws10c-h1"
         ],
         "title": "Newton's Second Law",
-        "text": "Newton's second law states that force is equal to mass times acceleration. The formula is $$F=m a$$.",
+        "text": "Newton's second law states that force is equal to mass times acceleration. The formula is $$F=ma$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "ace918bnlaws10c-h2"
         ],
         "title": "Calculate the Force",
-        "text": "Given that the mass $$m$$ is $$75.0$$ kg and the acceleration a is $$49.0$$ $$\\frac{m}{s^2}$$, calculate the force using the formula $$F=m a$$.",
+        "text": "Given that the mass $$m$$ is $$75.0\\, \\text{kg}$$ and the acceleration $$a$$ is $$49.0\\,\\tfrac{\\text{m}}{\\text{s}**{2}}$$, $$calculate$$ $$the$$ $$force$$ $$using$$ $$the$$ $$formula$$ $$F=ma$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

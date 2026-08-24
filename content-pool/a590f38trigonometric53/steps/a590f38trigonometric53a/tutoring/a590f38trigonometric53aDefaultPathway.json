@@ -21,7 +21,7 @@
             "a590f38trigonometric53a-h1"
         ],
         "title": "Which identity?",
-        "text": "Which trigonometric identity matches the form $$\\sin(A)\\cos(B)\\$\\$-\\$\\$\\cos(A)\\sin(B)$$?",
+        "text": "Which trigonometric identity matches the form $$\\sin(A)\\cos(B)-\\cos(A)\\sin(B)$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -56,7 +56,7 @@
             "a590f38trigonometric53a-h2"
         ],
         "title": "Apply the identity",
-        "text": "What is the simplified form of $$\\sin(6x)\\cos(11x)\\$\\$-\\$\\$\\cos(6x)\\sin(11x)$$?",
+        "text": "What is the simplified form of $$\\sin(6x)\\cos(11x)-\\cos(6x)\\sin(11x)$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -91,7 +91,7 @@
             "a590f38trigonometric53a-h3"
         ],
         "title": "General solution",
-        "text": "What is the general solution for $$\\sin(u)=0.1$$ $$$$?",
+        "text": "What is the general solution for $$\\sin(u)=0.1$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -114,7 +114,7 @@
             "a590f38trigonometric53a-h3"
         ],
         "title": "Interval for u",
-        "text": "Given $$$$ $$0$$ \\leq x<2\\pi $$$$, $$what$$ $$is$$ $$the$$ $$corresponding$$ $$interval$$ $$for$$ $$u$$ $$=$$ $$5x$$?",
+        "text": "Given $$0$$ $$\\leq$$ x<2\\pi$$, $$what$$ $$is$$ $$the$$ $$corresponding$$ $$interval$$ $$for$$ $$u$$ $$=$$ $$5x$$?",
         "variabilization": {},
         "oer": "",
         "license": "",

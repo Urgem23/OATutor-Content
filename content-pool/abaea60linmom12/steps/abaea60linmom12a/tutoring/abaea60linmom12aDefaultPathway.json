@@ -16,7 +16,7 @@
             "abaea60linmom12a-h1"
         ],
         "title": "Initial Momentum",
-        "text": "Calculate the initial momentum of the system before the second child jumps on. Use the formula: \\(momentum=mass*velocity\\).",
+        "text": "Calculate the initial momentum of the system before the second child jumps on. Use the formula: $$momentum=mass velocity$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -74,7 +74,7 @@
             "abaea60linmom12a-h5"
         ],
         "title": "Conservation of Momentum",
-        "text": "Set the initial momentum equal to the final momentum to solve for the final speed \\(v\\).",
+        "text": "Set the initial momentum equal to the final momentum to solve for the final speed $$v$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -91,7 +91,7 @@
             "abaea60linmom12a-h6"
         ],
         "title": "Solve for Final Speed",
-        "text": "Using the equation \\(35*3.5=70*v\\), solve for \\(v\\).",
+        "text": "Using the equation $$35\\times3.5=70v$$, $$solve$$ $$for$$ $$v$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

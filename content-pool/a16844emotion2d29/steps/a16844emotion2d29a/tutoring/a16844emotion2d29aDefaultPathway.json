@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Problem",
-        "text": "To find the initial speed, we need to consider the projectile motion of the golf ball. The ball is launched at an angle of $$40$$ degrees with respect to the horizontal, and we need to find the speed that allows it to travel the given horizontal and vertical distances.",
+        "text": "To find the initial speed, we need to consider the projectile motion of the golf ball. The ball is launched at an angle of $$40**\\circ$$ with respect to the horizontal, and we need to find the speed that allows it to travel the given horizontal and vertical distances.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "a16844emotion2d29a-h2"
         ],
         "title": "Horizontal Component of Velocity",
-        "text": "The horizontal component of the velocity can be found using the formula: $$v_x=v cos\\left(\\theta\\right)$$. What is $$v_x$$ in terms of v?",
+        "text": "The horizontal component of the velocity can be found using the formula: $$v_{x}=v\\cos(\\theta)$$. $$What$$ $$is$$ $$v_{x}$$ in terms of $$v$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -50,7 +50,7 @@
             "a16844emotion2d29a-h2"
         ],
         "title": "Vertical Component of Velocity",
-        "text": "The vertical component of the velocity can be found using the formula: $$v_y=v sin\\left(\\theta\\right)$$. What is $$v_y$$ in terms of v?",
+        "text": "The vertical component of the velocity can be found using the formula: $$v_{y}=v\\sin(\\theta)$$. $$What$$ $$is$$ $$v_{y}$$ in terms of $$v$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -73,13 +73,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$t=\\frac{v sin\\left(40\\right)+\\sqrt{\\left(v sin\\left(40\\right)\\right)^2+2g\\times400}}{g}$$"
+            "$$t=(v\\sin(40)+sqrt((v\\sin(40))**{2}+2g400))/g$$"
         ],
         "dependencies": [
             "a16844emotion2d29a-h5"
         ],
         "title": "Vertical Motion Equation",
-        "text": "The vertical motion can be described by the equation: $$y=v_y t-0.5g t^2$$. Use this to find the time of flight in terms of v.",
+        "text": "The vertical motion can be described by the equation: $$y=v_{y}t-0.5gt**{2}$$. $$ \\cup se$$ $$this$$ $$to$$ $$find$$ $$the$$ $$time$$ $$of$$ $$flight$$ $$in$$ $$terms$$ $$of$$ $$v$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -102,13 +102,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$v=\\frac{359}cos^$\\left(40\\right) \\frac{v sin\\left(40\\right)+\\sqrt{\\left(v sin\\left(40\\right)\\right)^2+2g\\times400}}{$$"
+            "$$v=359/(\\cos(40)((v\\sin(40)+sqrt((v\\sin(40))**{2}+2g400))/g))$$"
         ],
         "dependencies": [
             "a16844emotion2d29a-h7"
         ],
         "title": "Horizontal Motion Equation",
-        "text": "The horizontal motion can be described by the equation: $$x=v_x t$$. Use this to solve for v.",
+        "text": "The horizontal motion can be described by the equation: $$x=v_{x}t$$. $$ \\cup se$$ $$this$$ $$to$$ $$solve$$ $$for$$ $$v$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -137,7 +137,7 @@
             "a16844emotion2d29a-h9"
         ],
         "title": "Final Calculation",
-        "text": "Calculate the initial speed using the equation derived. Remember to use $$g=\\frac{9.8m}{s^2}$$.",
+        "text": "Calculate the initial speed using the equation derived. Remember to use $$g=9.8m/s**{2}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

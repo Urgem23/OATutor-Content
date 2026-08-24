@@ -16,7 +16,7 @@
             "a09f25fmotion7a-h1"
         ],
         "title": "Identify the Given Values",
-        "text": "You are given the velocity of the particle as $$30$$ $$\\frac{m}{s}$$ and the time interval as $$5.0$$ s. Use these values in the displacement formula.",
+        "text": "You are given the velocity of the particle as $$30\\, \\tfrac{\\text{m}}{\\text{s}}$$ and the time interval as $$5.0\\, \\text{s}$$. $$ \\cup se$$ $$these$$ $$values$$ $$in$$ $$the$$ $$displacement$$ $$formula$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

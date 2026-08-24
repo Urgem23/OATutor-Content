@@ -21,7 +21,7 @@
             "a590f38trigonometric42d-h1"
         ],
         "title": "Equation in terms of cosine",
-        "text": "What is the equation $$\\sec(x)\\$\\$-2=0$$ $$when$$ $$rewritten$$ $$in$$ $$terms$$ $$of$$ $$\\cos(x)$$?",
+        "text": "What is the equation $$\\sec(x)-2=0$$ when rewritten in terms of $$\\cos(x)$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -56,7 +56,7 @@
             "a590f38trigonometric42d-h2"
         ],
         "title": "First solution for $$\\cos(x)=\\frac{1}{2}$$",
-        "text": "What is the first angle in $$(0, \\$$ $$2\\pi)$$ where $$\\cos(x)=\\frac{1}{2}$$?",
+        "text": "What is the first angle in $$(0$$, $$2\\pi)$$ where $$\\cos(x)=\\frac{1}{2}$$?",
         "variabilization": {},
         "oer": "",
         "license": ""

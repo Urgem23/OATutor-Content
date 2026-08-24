@@ -45,7 +45,7 @@
             "a88c93efixedaxis20a-h3"
         ],
         "title": "Calculate Angular Velocity",
-        "text": "Convert $$20$$ $$\\frac{rev}{min}$$ to $$\\frac{rad}{s}$$. Use the conversion: $$1$$ rev $$=$$ $$2\\pi$$ rad and $$1$$ min $$=$$ $$60$$ s.",
+        "text": "Convert $$20\\, \\tfrac{\\text{rev}}{\\text{min}}$$ to $$\\frac{rad}{s}$$. Use the conversion: $$1\\,\\text{rev}=2$$*pi $$rad$$ $$and$$ $$1\\, \\text{min}=60\\, \\text{s}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -73,13 +73,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{2\\times{10}^6}{\\frac{2\\pi\\times20}{60}}$$"
+            "2.0*$$10**{6}$$/(2*pi*20/60)"
         ],
         "dependencies": [
             "a88c93efixedaxis20a-h5"
         ],
         "title": "Calculate Torque",
-        "text": "Substitute the values into the formula: Power $$=$$ $$2.0$$ MW $$=$$ $$2\\times{10}^6$$ W, Angular Velocity $$=$$ $$\\frac{2\\pi\\times20}{60}$$ $$\\frac{rad}{s}$$.",
+        "text": "Substitute the values into the formula: Power $$=$$ $$2.0$$ MW $$=$$ $$2.0\\times10**{6}\\,\\text{W}$$, $$Angular$$ $$Velocity$$ $$=$$ 2*pi*20/$$60\\,\\tfrac{\\text{rad}}{\\text{s}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

@@ -21,7 +21,7 @@
             "a590f38trigonometric41a-h1"
         ],
         "title": "Isolate cosine",
-        "text": "What is the equation after isolating $$\\cos(((\\pi)$$/(5))$$\\theta $$)$$?",
+        "text": "What is the equation after isolating $$\\cos(((\\pi)$$/(5))$$\\theta$$)?",
         "variabilization": {},
         "oer": "",
         "license": "",
@@ -39,7 +39,7 @@
             "a590f38trigonometric41a-h1"
         ],
         "title": "Find general solutions for the argument",
-        "text": "Let u =$$\\frac{\\pi}{5}\\theta $$$$. $$Find$$ $$the$$ $$general$$ $$solutions$$ $$for$$ $$u$$ $$where$$ $$\\cos(u)=\\frac{\\sqrt{3}}{2}. $$$$",
+        "text": "Let u =$$\\frac{\\pi}{5}\\theta$$. Find the general solutions for u where $$\\cos(u)=\\frac{\\sqrt{3}}{2}.$$",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -73,8 +73,8 @@
         "dependencies": [
             "a590f38trigonometric41a-h2"
         ],
-        "title": "Solve for $$\\theta$$ $$$$ within the interval",
-        "text": "Substitute u =$$\\frac{\\pi}{5}\\theta $$$$ back and solve for $$\\theta$$ $$$$ in the interval $$$$ $$0$$ \\leq \\theta<2\\pi $$$$.",
+        "title": "Solve for $$\\theta$$ within the interval",
+        "text": "Substitute u =$$\\frac{\\pi}{5}\\theta$$ back and solve for $$\\theta$$ in the interval $$0$$ $$\\leq$$ \\theta<2\\pi$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -90,8 +90,8 @@
         "dependencies": [
             "a590f38trigonometric41a-h3"
         ],
-        "title": "Final solution for $$\\theta$$ $$$$",
-        "text": "What is the value of $$\\theta$$ $$$$ in the interval $$$$ $$0$$ \\leq \\theta<2\\pi $$$$?",
+        "title": "Final solution for $$\\theta$$",
+        "text": "What is the value of $$\\theta$$ in the interval $$0$$ $$\\leq$$ \\theta<2\\pi$$?",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -44,21 +44,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\pi-\\theta1$$"
+            "$$\\pi-\\theta_1$$"
         ],
         "dependencies": [
             "a590f38trigonometric8a-h2"
         ],
         "title": "Second Solution",
-        "text": "If $$\\theta$$ $$$$ $$1$$ is the principal value, how do you find the second solution in $$(0, \\$$ $$2\\pi)$$ where $$\\sin(\\theta)$$ is positive?",
+        "text": "If $$\\theta_1$$ is the principal value, how do you find the second solution in $$(0$$, $$2\\pi)$$ where $$\\sin(\\theta)$$ is positive?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\pi-\\theta1$$",
-            "$$2\\pi-\\theta1$$",
-            "$$\\pi+\\theta1$$",
-            "$$theta1$$"
+            "$$\\pi-\\theta_1$$",
+            "$$2\\pi-\\theta_1$$",
+            "$$\\pi+\\theta_1$$",
+            "$$\\theta_1$$"
         ]
     },
     {

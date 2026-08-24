@@ -4,7 +4,7 @@
         "$$1.5$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the radius of this planet in terms of Earth's radius? (give the numerical value only)",
+    "stepTitle": "What is the radius of this planet in terms of Earth's radius?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

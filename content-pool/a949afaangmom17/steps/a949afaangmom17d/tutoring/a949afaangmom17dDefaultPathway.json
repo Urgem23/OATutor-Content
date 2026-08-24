@@ -44,34 +44,5 @@
         "variabilization": {},
         "oer": "openai",
         "license": ""
-    },
-    {
-        "id": "a949afaangmom17d-h5",
-        "type": "hint",
-        "dependencies": [
-            "a949afaangmom17d-h4"
-        ],
-        "title": "Final Angular Velocity",
-        "text": "Using the conservation of angular momentum, calculate the final angular velocity of the system.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a949afaangmom17d-h6",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$0.035$$"
-        ],
-        "dependencies": [
-            "a949afaangmom17d-h5"
-        ],
-        "title": "Calculate New Kinetic Energy",
-        "text": "The kinetic energy of a rotating system is given by $$\\frac{1}{2} I {\\omega}^2$$. Use the final moment of inertia and angular velocity to find the new kinetic energy.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
     }
 ]

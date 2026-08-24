@@ -16,7 +16,7 @@
             "a09f25fmotion2b-h1"
         ],
         "title": "Find Initial and Final Positions",
-        "text": "Use the position function $$x(t)=4-2t$$ to find the position of the particle at $$t=3.0s$$ and $$t=6.0s$$.",
+        "text": "Use the position function $$x(t)=4.0-2.0t$$ to find the position of the particle at $$t=3.0s$$ and $$t=6.0s$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "a09f25fmotion2b-h2"
         ],
         "title": "Calculate Initial Position",
-        "text": "Substitute $$t=3.0$$ into the position function $$x(t)=4-2t$$ to find the initial position.",
+        "text": "Substitute $$t=3.0$$ into the position function $$x(t)=4.0-2.0t$$ to find the initial position.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -50,7 +50,7 @@
             "a09f25fmotion2b-h3"
         ],
         "title": "Calculate Final Position",
-        "text": "Substitute $$t=6.0$$ into the position function $$x(t)=4-2t$$ to find the final position.",
+        "text": "Substitute $$t=6.0$$ into the position function $$x(t)=4.0-2.0t$$ to find the final position.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

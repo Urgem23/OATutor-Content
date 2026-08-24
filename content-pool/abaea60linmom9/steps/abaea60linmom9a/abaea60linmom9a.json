@@ -4,7 +4,7 @@
         "$$0.025$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "How far does the player recoil in the time it takes the puck to reach the goal $$15.0$$ $$m$$ away?",
+    "stepTitle": "How far does the player recoil in the time it takes the puck to reach the goal $$15.0\\, \\text{m}$$ away (in $$\\text{s}\\$\\$)$$?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

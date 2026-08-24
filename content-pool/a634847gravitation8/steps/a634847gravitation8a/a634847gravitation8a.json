@@ -4,7 +4,7 @@
         "$$5035$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the escape speed of a projectile from the surface of Mars. (give the numerical value only, speed in m/s)",
+    "stepTitle": "Find the escape speed of a projectile from the surface of Mars (in $$\\tfrac{\\text{m}}{\\text{s}}\\$\\$)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

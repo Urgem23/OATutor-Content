@@ -4,7 +4,7 @@
         "$$0.796$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Calculate the fluid's density. (give the numerical value only, density in g/cm**3)",
+    "stepTitle": "Calculate the fluid's density (in $$\\tfrac{\\text{g}}{\\text{cm}**{3}}$$).",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},
