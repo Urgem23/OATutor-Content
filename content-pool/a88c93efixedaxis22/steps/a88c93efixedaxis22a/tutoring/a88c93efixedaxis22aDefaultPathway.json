@@ -45,7 +45,7 @@
             "a88c93efixedaxis22a-h3"
         ],
         "title": "Calculate Angular Acceleration",
-        "text": "Given that the initial angular velocity is $$0$$ and the final angular velocity is $$1000$$ $$\\frac{rev}{min}$$, convert this to radians per second and calculate the angular acceleration over $$6$$ seconds.",
+        "text": "Given that the initial angular velocity is $$0$$ and the final angular velocity is $$1000\\, \\tfrac{\\text{rev}}{\\text{min}}$$, $$convert$$ $$this$$ $$to$$ $$radians$$ $$per$$ $$second$$ $$and$$ $$calculate$$ $$the$$ $$angular$$ $$acceleration$$ $$over$$ $$6$$ $$seconds$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

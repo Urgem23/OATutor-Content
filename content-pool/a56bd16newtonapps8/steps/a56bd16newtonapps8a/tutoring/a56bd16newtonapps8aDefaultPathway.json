@@ -16,7 +16,7 @@
             "a56bd16newtonapps8a-h1"
         ],
         "title": "Calculate the Parallel Component of Gravity",
-        "text": "The parallel component of the gravitational force can be calculated using the formula: $$m g sin\\left(\\theta\\right)$$, where $$m$$ is the mass of the car, g is the acceleration due to gravity $$(9.8$$ m/s**2), and theta is the angle of the incline.",
+        "text": "The parallel component of the gravitational force can be calculated using the formula: m*g*sin($$\\theta$$), where \\,\\text{m} is the mass of the car, $$g$$ is the acceleration due to gravity ($$9.8\\,\\tfrac{\\text{m}}{\\text{s}**{2}}$$), and $$\\theta$$ is the angle of the incline.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,13 +39,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$g sin\\left(\\theta\\right)$$"
+            "g*sin($$\\theta$$)"
         ],
         "dependencies": [
             "a56bd16newtonapps8a-h3"
         ],
         "title": "Solve for Acceleration",
-        "text": "Using the equation $$m g sin\\left(\\theta\\right)=m a$$, solve for the acceleration a.",
+        "text": "Using the equation $$mg\\sin(\\theta)=ma$$, $$solve$$ $$for$$ $$the$$ $$acceleration$$ $$a$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -62,7 +62,7 @@
             "a56bd16newtonapps8a-h4"
         ],
         "title": "Substitute the Values",
-        "text": "Substitute the known values into the equation $$a=g sin\\left(\\theta\\right)$$ to find the acceleration. Use $$g=9.8$$ $$\\frac{m}{s^2}$$ and $$theta=20$$ degrees.",
+        "text": "Substitute the known values into the equation $$a=g\\sin(\\theta)$$ to find the acceleration. Use $$g=9.8\\,\\tfrac{\\text{m}}{\\text{s}**{2}}$$ and $$\\theta=20$$ degrees.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

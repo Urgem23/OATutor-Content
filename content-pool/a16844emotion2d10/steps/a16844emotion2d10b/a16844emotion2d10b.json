@@ -4,7 +4,7 @@
         "$$490$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the maximum altitude? (give the numerical value only, altitude in meters)",
+    "stepTitle": "What is the maximum altitude (in $$\\text{m}\\$\\$)$$?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

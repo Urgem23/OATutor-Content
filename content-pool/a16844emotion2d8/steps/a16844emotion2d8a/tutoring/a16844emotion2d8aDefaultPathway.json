@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Position Function",
-        "text": "The position function is given as $$r(t)=cos\\left(1t\\right) i+sin\\left(1t\\right) j+t k$$. This represents a helical path. The components in the i and j directions are circular, while the k component increases linearly with time.",
+        "text": "This represents a helical path. The components in the i and j directions are circular, while the k component increases linearly with time.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "a16844emotion2d8a-h1"
         ],
         "title": "Finding the Velocity Vector",
-        "text": "To find the velocity vector, differentiate the position function r(t) with respect to time $$t$$.",
+        "text": "To find the velocity vector, differentiate the position function $$r(t)$$ with respect to time $$t$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

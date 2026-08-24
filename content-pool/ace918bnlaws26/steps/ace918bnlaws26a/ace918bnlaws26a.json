@@ -4,7 +4,7 @@
         "$$937$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Calculate the magnitude of the force on the rider by the sled. (give the numerical value only, force in N)",
+    "stepTitle": "Calculate the magnitude of the force on the rider by the sled (in $$\\text{N}\\$\\$)$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

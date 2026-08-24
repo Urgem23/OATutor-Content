@@ -21,7 +21,7 @@
             "a590f38trigonometric64a-h1"
         ],
         "title": "Identify substitution",
-        "text": "What substitution can you make to transform $$3$$ $$\\cos**{2} $$x$$ $$-2$$ $$\\cos(x)\\$\\$-2=0$$ $$into$$ $$a$$ $$standard$$ $$quadratic$$ $$equation$$?",
+        "text": "What substitution can you make to transform $$3$$ $$\\cos**2(x)$$-2 $$\\cos(x)\\$\\$-2=0$$ $$into$$ $$a$$ $$standard$$ $$quadratic$$ $$equation$$?",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -79,7 +79,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$u=\\frac{1-\\sqrt{7}}{3},\\ x=\\arccos(\\frac{1-\\sqrt{7}}{3})$$"
+            "$$u=\\frac{1-\\sqrt{7}}{3}, x=\\arccos(\\frac{1-\\sqrt{7}}{3})$$"
         ],
         "dependencies": [
             "a590f38trigonometric64a-h3"
@@ -90,9 +90,9 @@
         "oer": "",
         "license": "",
         "choices": [
-            "$$u=\\frac{1-\\sqrt{7}}{3},\\ x=\\arccos(\\frac{1-\\sqrt{7}}{3})$$",
-            "$$u=\\frac{1+\\sqrt{7}}{3},\\ x=\\arccos(\\frac{1+\\sqrt{7}}{3})$$",
-            "$$u=\\frac{1-\\sqrt{7}}{3},\\ x=\\arcsin(\\frac{1-\\sqrt{7}}{3})$$",
+            "$$u=\\frac{1-\\sqrt{7}}{3}, x=\\arccos(\\frac{1-\\sqrt{7}}{3})$$",
+            "$$u=\\frac{1+\\sqrt{7}}{3}, x=\\arccos(\\frac{1+\\sqrt{7}}{3})$$",
+            "$$u=\\frac{1-\\sqrt{7}}{3}, x=\\arcsin(\\frac{1-\\sqrt{7}}{3})$$",
             "$$u=\\frac{1-\\sqrt{7}}{3}$$"
         ]
     }

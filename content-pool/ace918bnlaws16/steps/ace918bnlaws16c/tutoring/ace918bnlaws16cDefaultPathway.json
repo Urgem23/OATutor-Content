@@ -27,13 +27,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$1.96\\times{10}^{-4}$$"
+            "1.96*$$10**{-4}$$"
         ],
         "dependencies": [
             "ace918bnlaws16c-h2"
         ],
         "title": "Calculate Weight of the Spider",
-        "text": "Given the mass of the spider is $$2\\times{10}^{-5}$$ kg and gravity is approximately $$9.8$$ $$\\frac{m}{s^2}$$, calculate the weight.",
+        "text": "Given the mass of the spider is $$2.00\\times10**{-5}\\,\\text{kg}$$ and gravity is approximately $$9.8\\,\\tfrac{\\text{m}}{\\text{s}**{2}}$$, $$calculate$$ $$the$$ $$weight$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -56,13 +56,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$T_{vertical} tan\\left(\\theta\\right)$$"
+            "$$T_{\\text{vertical}}$$*tan(\u03b8)"
         ],
         "dependencies": [
             "ace918bnlaws16c-h4"
         ],
         "title": "Using Trigonometry",
-        "text": "If the angle between the vertical and the web strand is \u03b8, then the horizontal tension can be expressed as $$T_{horizontal}$$ $$=$$ $$T_{vertical}$$ * tan(\u03b8).",
+        "text": "If the angle between the vertical and the web strand is \u03b8, then the horizontal tension can be expressed as $$T_{\\text{horizontal}}$$ $$=$$ $$T_{\\text{vertical}}$$ * tan(\u03b8).",
         "variabilization": {},
         "oer": "openai",
         "license": ""

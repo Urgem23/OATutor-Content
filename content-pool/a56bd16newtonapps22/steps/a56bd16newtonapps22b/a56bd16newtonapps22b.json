@@ -4,7 +4,7 @@
         "$$414$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the terminal velocity in kilometers per hour. (give the numerical value only)",
+    "stepTitle": "Find the terminal velocity in kilometers per hour.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

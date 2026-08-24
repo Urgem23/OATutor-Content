@@ -4,7 +4,7 @@
         "$$6013$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the average force on the shell in the mortar, in newtons? (give the numerical value only)",
+    "stepTitle": "What is the average force on the shell in the mortar, in newtons?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

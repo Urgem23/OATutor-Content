@@ -1,7 +1,7 @@
 {
     "id": "aea001bfluids17",
     "title": "Air Track Cart",
-    "body": "Air temperature is $$20$$ degrees C; the viscosity of air at this temperature is $$1.81\\times{10}^{-5}$$ $$Pa s$$.",
+    "body": "Air temperature is $$20**\\circ$$ C; the viscosity of air at this temperature is $$1.81\\times10**{-5}\\,\\text{Pa}\\cdot\\text{s}$$.",
     "variabilization": {},
     "oer": "https://openstax.org/books/university-physics-volume-1/pages/14-problems",
     "license": "",

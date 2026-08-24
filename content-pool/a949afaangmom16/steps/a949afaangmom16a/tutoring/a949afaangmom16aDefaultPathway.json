@@ -16,7 +16,7 @@
             "a949afaangmom16a-h1"
         ],
         "title": "Angular Momentum Formula",
-        "text": "Angular momentum (L) is given by the product of the moment of inertia (I) and the angular velocity (\u03c9): $$L=I \\omega$$. Use this formula to find the initial angular velocity.",
+        "text": "Angular momentum $$L$$ is given by the product of the moment of inertia $$I$$ and the angular velocity $$\\omega$$: $$L=I\\omega$$. $$ \\cup se$$ $$this$$ $$formula$$ $$to$$ $$find$$ $$the$$ $$initial$$ $$angular$$ $$velocity$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -27,7 +27,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$L_{initial}=16.9\\omega_{initial}$$"
+            "$$L_{\\text{initial}}$$=16.9*$$\\omega_{\\text{initial}}$$"
         ],
         "dependencies": [
             "a949afaangmom16a-h2"
@@ -44,7 +44,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$L_{somersaults}=4.2\\omega_{somersaults}$$"
+            "$$L_{\\text{somersaults}}=4$$.2*$$\\omega_{\\text{somersaults}}$$"
         ],
         "dependencies": [
             "a949afaangmom16a-h3"
@@ -61,7 +61,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$16.9\\omega_{initial}=4.2\\omega_{somersaults}$$"
+            "16.9*$$\\omega_{\\text{initial}}=4$$.2*$$\\omega_{\\text{somersaults}}$$"
         ],
         "dependencies": [
             "a949afaangmom16a-h4"
@@ -78,7 +78,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\omega_{somersaults}=\\frac{3\\times2 \\pi}{1.4}$$"
+            "$$\\omega_{\\text{somersaults}}=3*2\\pi/1$$.4"
         ],
         "dependencies": [
             "a949afaangmom16a-h5"
@@ -95,13 +95,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\omega_{initial}=\\frac{\\frac{4.2\\times3\\times2 \\pi}{1.4}}{16.9}$$"
+            "$$\\omega_{\\text{initial}}$$=(4.2*3*2$$\\pi/1$$.4)/16.9"
         ],
         "dependencies": [
             "a949afaangmom16a-h6"
         ],
         "title": "Solve for Initial Angular Velocity",
-        "text": "Substitute the expression for $$\\omega_{somersaults}$$ into the conservation equation and solve for $$\\omega_{initial}$$.",
+        "text": "Substitute the expression for $$\\omega_{\\text{somersaults}}$$ into the conservation equation and solve for $$\\omega_{\\text{initial}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

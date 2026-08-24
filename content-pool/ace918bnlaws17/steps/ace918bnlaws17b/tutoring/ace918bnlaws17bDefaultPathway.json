@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Problem",
-        "text": "The bird is perched at the middle of the telephone line, causing tension in the line. We need to calculate this tension when the angle theta is $$0.5$$ degrees.",
+        "text": "The bird is perched at the middle of the telephone line, causing tension in the line. We need to calculate this tension when the angle $$\\theta$$ is $$0.5**\\circ$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -16,7 +16,7 @@
             "ace918bnlaws17b-h1"
         ],
         "title": "Forces Acting on the Bird",
-        "text": "The bird's weight acts downward, and the tension in the line acts along the line at an angle theta with the horizontal.",
+        "text": "The bird's weight acts downward, and the tension in the line acts along the line at an angle $$\\theta$$ with the horizontal.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,13 +39,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$T sin\\left(0.5\\right)=0.026\\times9.8$$"
+            "$$T\\sin(0.5)=0.026\\cdot9.8$$"
         ],
         "dependencies": [
             "ace918bnlaws17b-h3"
         ],
         "title": "Calculate the Vertical Component of Tension",
-        "text": "The vertical component of tension $$T sin\\left(\\theta\\right)$$ must equal the weight of the bird. Use the formula: $$T sin\\left(\\theta\\right)=m g$$, where $$m$$ is the mass of the bird and g is the acceleration due to gravity.",
+        "text": "The vertical component of tension (T*sin($$\\theta$$)) must equal the weight of the bird. Use the formula: $$T\\sin(\\theta)=mg$$, $$where$$ $$\\, \\text{m$$} $$is$$ $$the$$ $$mass$$ $$of$$ $$the$$ $$bird$$ $$and$$ $$g$$ is the acceleration due to gravity.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -56,13 +56,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$T=\\frac{0.026\\times9.8}sin^$\\left(0.5\\righ$$"
+            "$$T=0.026\\cdot9.8/\\sin(0.5)$$"
         ],
         "dependencies": [
             "ace918bnlaws17b-h4"
         ],
         "title": "Solve for Tension",
-        "text": "Rearrange the equation to solve for T: $$T=\\frac{m g}sin^$\\left(\\theta\\righ$$.",
+        "text": "Rearrange the equation to solve for $$T$$: $$T=mg/\\sin(\\theta)$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

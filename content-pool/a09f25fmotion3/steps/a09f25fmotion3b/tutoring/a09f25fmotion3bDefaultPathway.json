@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Problem",
-        "text": "The meteor exploded at an altitude of $$23.5$$ km, and the blast wave took $$2$$ minutes $$30$$ seconds to reach the ground. We need to calculate the speed of the blast wave and compare it to the speed of sound at sea level, which is $$343$$ $$\\frac{m}{s}$$.",
+        "text": "The meteor exploded at an altitude of $$23.5\\, \\text{km}$$, $$and$$ $$the$$ $$blast$$ $$wave$$ $$took$$ $$2$$ $$minutes$$ $$30$$ $$seconds$$ $$to$$ $$reach$$ $$the$$ $$ground$$. $$We$$ $$need$$ $$to$$ $$calculate$$ $$the$$ $$speed$$ $$of$$ $$the$$ $$blast$$ $$wave$$ $$and$$ $$compare$$ $$it$$ $$to$$ $$the$$ $$speed$$ $$of$$ $$sound$$ $$at$$ $$sea$$ $$level$$, $$which$$ $$is$$ $$343\\, \\tfrac{\\text{m}}{\\text{s}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -62,7 +62,7 @@
             "a09f25fmotion3b-h4"
         ],
         "title": "Calculate Speed",
-        "text": "Calculate the speed of the blast wave using the formula speed $$=$$ $$\\frac{distance}{time}$$, where distance is $$23.5$$ km (converted to meters) and time is $$150$$ seconds.",
+        "text": "Calculate the speed of the blast wave using the formula speed $$=$$ $$\\frac{distance}{time}$$, where distance is $$23.5\\, \\text{km}$$ (converted to meters) and time is $$150$$ seconds.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -74,7 +74,7 @@
             "a09f25fmotion3b-h5"
         ],
         "title": "Compare with the Speed of Sound",
-        "text": "Now that you have the speed of the blast wave, compare it to the speed of sound at sea level, which is $$343$$ $$\\frac{m}{s}$$.",
+        "text": "Now that you have the speed of the blast wave, compare it to the speed of sound at sea level, which is $$343\\, \\tfrac{\\text{m}}{\\text{s}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

@@ -27,7 +27,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$a=\\frac{v^2-u^2}{2s}$$"
+            "$$a=(v**{2}-u**{2})/(2s)$$"
         ],
         "dependencies": [
             "a09f25fmotion14b-h2"
@@ -44,13 +44,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$a=\\frac{{65}^2-0^2}{2\\times0.25}$$"
+            "$$a=(65**{2}-0**{2})/(2\\cdot0.250)$$"
         ],
         "dependencies": [
             "a09f25fmotion14b-h3"
         ],
         "title": "Calculate the Acceleration",
-        "text": "Substitute the known values into the equation to find the acceleration. v $$=$$ $$65.0$$ $$\\frac{m}{s}$$, u $$=$$ $$0$$ $$\\frac{m}{s}$$, s $$=$$ $$0.250$$ $$m$$.",
+        "text": "Substitute the known values into the equation to find the acceleration. $$v=65.0\\, \\tfrac{\\text{m}}{\\text{s}}$$, $$u=0\\, \\tfrac{\\text{m}}{\\text{s}}$$, $$s=0.250\\, \\text{m}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -96,7 +96,7 @@
             "a09f25fmotion14b-h6"
         ],
         "title": "Calculate the Time",
-        "text": "Substitute the known values into the equation to find the time. v $$=$$ $$65.0$$ $$\\frac{m}{s}$$, u $$=$$ $$0$$ $$\\frac{m}{s}$$, a $$=$$ $$8450$$ $$\\frac{m}{s^2}$$.",
+        "text": "Substitute the known values into the equation to find the time. $$v=65.0\\, \\tfrac{\\text{m}}{\\text{s}}$$, $$u=0\\, \\tfrac{\\text{m}}{\\text{s}}$$, $$a=8450\\,\\tfrac{\\text{m}}{\\text{s}**{2}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

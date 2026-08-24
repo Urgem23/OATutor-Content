@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Terminal Velocity",
-        "text": "Terminal velocity is the constant speed that a freely falling object eventually reaches when the resistance of the medium prevents further acceleration. In this case, the diamond reaches a terminal velocity of $$2.0$$ $$\\frac{m}{s}$$.",
+        "text": "Terminal velocity is the constant speed that a freely falling object eventually reaches when the resistance of the medium prevents further acceleration. In this case, the diamond reaches a terminal velocity of $$2.0\\, \\tfrac{\\text{m}}{\\text{s}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "a56bd16newtonapps25b-h2"
         ],
         "title": "Calculate 90% of Terminal Velocity",
-        "text": "What is 90% of the terminal velocity of $$2.0$$ $$\\frac{m}{s}$$?",
+        "text": "What is 90% of the terminal velocity of $$2.0\\, \\tfrac{\\text{m}}{\\text{s}}$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -45,7 +45,7 @@
             "a56bd16newtonapps25b-h3"
         ],
         "title": "Using the Drag Equation",
-        "text": "The drag force can be calculated using the equation: $$F_d=\\frac{1}{2} C_d A \\rho v^2$$, where $$C_d$$ is the drag coefficient, A is the cross-sectional area, rho is the fluid density, and v is the velocity.",
+        "text": "The drag force can be calculated using the equation: $$F_{d}$$=1/2*$$C_{d}$$*A*rho*$$v**{2}$$, $$where$$ $$C_{d}$$ is the drag coefficient, A is the cross-sectional area, rho is the fluid density, and $$v$$ is the velocity.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

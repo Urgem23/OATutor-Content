@@ -16,7 +16,7 @@
             "abaea60linmom17a-h1"
         ],
         "title": "Formula for Center of Mass",
-        "text": "The x-coordinate of the center of mass for a continuous body is given by the formula: $$x_{cm}$$ $$=$$ $$\\frac{1}{M}$$ * $$\\int_{0}^{a} x*rho(x,y) \\,dxdy$$, where M is the total mass of the rectangle.",
+        "text": "The x-coordinate of the center of mass for a continuous body is given by the formula: $$x_{\\text{cm}}$$ $$=$$ $$\\frac{1}{M}$$ * $$\\int_{0}^{a} x*rho(x,y) \\,dxdy$$, where M is the total mass of the rectangle.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -39,7 +39,7 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$\\frac{\\rho_0 a^2 b^2}{4}$$"
+            "rho_0*$$a**{2}$$*$$b**{2}$$/4"
         ],
         "dependencies": [
             "abaea60linmom17a-h3"
@@ -57,7 +57,7 @@
             "abaea60linmom17a-h4"
         ],
         "title": "Substitute the Total Mass",
-        "text": "Substitute the expression for the total mass M into the formula for $$x_{cm}$$.",
+        "text": "Substitute the expression for the total mass M into the formula for $$x_{\\text{cm}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -73,8 +73,8 @@
         "dependencies": [
             "abaea60linmom17a-h5"
         ],
-        "title": "Calculate $$x_{cm}$$",
-        "text": "Using the formula for $$x_{cm}$$ and the expression for M, calculate the x-coordinate of the center of mass.",
+        "title": "Calculate $$x_{\\text{cm}}$$",
+        "text": "Using the formula for $$x_{\\text{cm}}$$ and the expression for M, calculate the x-coordinate of the center of mass.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

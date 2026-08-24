@@ -16,7 +16,7 @@
             "abaea60linmom1b-h1"
         ],
         "title": "Mass of the Box",
-        "text": "The mass of the box is given as $$5$$ kg.",
+        "text": "The mass of the box is given as $$5\\, \\text{kg}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -28,7 +28,7 @@
             "abaea60linmom1b-h2"
         ],
         "title": "Velocity of the Box",
-        "text": "The velocity of the box is the same as the skater's velocity, which is $$5$$ $$\\frac{m}{s}$$.",
+        "text": "The velocity of the box is the same as the skater's velocity, which is $$5\\, \\tfrac{\\text{m}}{\\text{s}}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

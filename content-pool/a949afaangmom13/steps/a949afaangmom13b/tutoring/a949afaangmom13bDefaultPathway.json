@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Moment of Inertia",
-        "text": "To calculate the torque, we first need to understand the moment of inertia for each blade. Since each blade is modeled as a uniform rod rotating about one end, the moment of inertia is given by the formula $$I=\\frac{1}{3} m L^2$$. What is the moment of inertia for one blade?",
+        "text": "To calculate the torque, we first need to understand the moment of inertia for each blade. Since each blade is modeled as a uniform rod rotating about one end, the moment of inertia is given by the formula $$I=(1/3)mL**{2}$$. $$What$$ $$is$$ $$the$$ $$moment$$ $$of$$ $$inertia$$ $$for$$ $$one$$ $$blade$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -21,7 +21,7 @@
             "a949afaangmom13b-h1"
         ],
         "title": "Calculate the Moment of Inertia for One Blade",
-        "text": "Using the formula $$I=\\frac{1}{3} m L^2$$, where $$m$$ is the mass of the blade and L is the length of the blade, calculate the moment of inertia for one blade.",
+        "text": "Using the formula $$I=(1/3)mL**{2}$$, $$where$$ $$\\, \\text{m$$} $$is$$ $$the$$ $$mass$$ $$of$$ $$the$$ $$blade$$ $$and$$ $$L$$ is the length of the blade, calculate the moment of inertia for one blade.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -62,7 +62,7 @@
             "a949afaangmom13b-h4"
         ],
         "title": "Understanding Angular Acceleration",
-        "text": "To find the torque, we need to calculate the angular acceleration. The angular acceleration is the change in angular velocity over time. What is the change in angular velocity if the blades start from rest and reach a maximum rotation rate of $$20$$ $$\\frac{rev}{min}$$?",
+        "text": "To find the torque, we need to calculate the angular acceleration. The angular acceleration is the change in angular velocity over time. What is the change in angular velocity if the blades start from rest and reach a maximum rotation rate of $$20\\, \\tfrac{\\text{rev}}{\\text{min}}$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -80,35 +80,6 @@
         ],
         "title": "Calculate Angular Acceleration",
         "text": "Convert the maximum rotation rate from revolutions per minute to radians per second, then divide by the time taken to reach this rate (5 minutes) to find the angular acceleration.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a949afaangmom13b-h7",
-        "type": "hint",
-        "dependencies": [
-            "a949afaangmom13b-h6"
-        ],
-        "title": "Calculate the Torque",
-        "text": "Now that we have the total moment of inertia and the angular acceleration, we can calculate the torque using the formula $$torque=I \\alpha$$, where I is the total moment of inertia and alpha is the angular acceleration.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a949afaangmom13b-h8",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$37700$$"
-        ],
-        "dependencies": [
-            "a949afaangmom13b-h7"
-        ],
-        "title": "Final Calculation of Torque",
-        "text": "Using the formula $$torque=I \\alpha$$, calculate the torque required to rotate the blades up to the maximum rotation rate.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

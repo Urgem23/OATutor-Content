@@ -4,7 +4,7 @@
         "$$12.6$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the fluid speed in the hose? (give the numerical value only, speed in m/s)",
+    "stepTitle": "What is the fluid speed in the hose (in $$\\tfrac{\\text{m}}{\\text{s}}\\$\\$)$$?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

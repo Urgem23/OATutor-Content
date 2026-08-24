@@ -27,8 +27,8 @@
         "license": "",
         "choices": [
             "$$y=\\tan(x)$$",
-            "$$y$$ $$=$$ $$x$$",
-            "$$y=\\tan**{2} $$x$$",
+            "$$y=x$$",
+            "$$y=\\tan**2(x)$$",
             "$$y=1/\\tan(x)$$"
         ]
     },
@@ -50,7 +50,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{-5+\\sqrt{29}}{2},\\ \\frac{-5-\\sqrt{29}}{2}$$"
+            "$$\\frac{-5+\\sqrt{29}}{2}, \\frac{-5-\\sqrt{29}}{2}$$"
         ],
         "dependencies": [
             "a590f38trigonometric66a-h2"
@@ -61,10 +61,10 @@
         "oer": "",
         "license": "",
         "choices": [
-            "$$\\frac{-5+\\sqrt{29}}{2},\\ \\frac{-5-\\sqrt{29}}{2}$$",
-            "$$\\frac{5+\\sqrt{29}}{2},\\ \\frac{5-\\sqrt{29}}{2}$$",
-            "$$\\frac{-5+\\sqrt{21}}{2},\\ \\frac{-5-\\sqrt{21}}{2}$$",
-            "$$\\frac{-5+\\sqrt{29}}{-2},\\ \\frac{-5-\\sqrt{29}}{-2}$$"
+            "$$\\frac{-5+\\sqrt{29}}{2}, \\frac{-5-\\sqrt{29}}{2}$$",
+            "$$\\frac{5+\\sqrt{29}}{2}, \\frac{5-\\sqrt{29}}{2}$$",
+            "$$\\frac{-5+\\sqrt{21}}{2}, \\frac{-5-\\sqrt{21}}{2}$$",
+            "$$\\frac{-5+\\sqrt{29}}{-2}, \\frac{-5-\\sqrt{29}}{-2}$$"
         ]
     },
     {
@@ -74,7 +74,7 @@
             "a590f38trigonometric66a-h2"
         ],
         "title": "Find $$x$$ values",
-        "text": "Determine the values of $$x$$ in the interval $$(0, \\$$ $$2\\pi)$$ for each $$\\tan(x)$$ value.",
+        "text": "Determine the values of $$x$$ in the interval $$(0$$, $$2\\pi)$$ for each $$\\tan(x)$$ value.",
         "variabilization": {},
         "oer": "",
         "license": ""
@@ -85,21 +85,21 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$x=\\arctan(k), \\$$ \\pi+\\arctan(k)$$"
+            "$$x=\\arctan(k)$$, \\pi+\\arctan(k)$$"
         ],
         "dependencies": [
             "a590f38trigonometric66a-h3"
         ],
-        "title": "General Solution for $$\\tan(x)=k$$ $$$$",
-        "text": "If $$\\tan(x)=k$$ $$$$, $$how$$ $$do$$ $$you$$ $$find$$ $$all$$ $$solutions$$ $$for$$ $$x$$ $$in$$ $$(0, \\$$ $$2\\pi)$$?",
+        "title": "General Solution for $$\\tan(x)=k$$",
+        "text": "If $$\\tan(x)=k$$, $$how$$ $$do$$ $$you$$ $$find$$ $$all$$ $$solutions$$ $$for$$ $$x$$ $$in$$ $$(0$$, $$2\\pi)$$?",
         "variabilization": {},
         "oer": "",
         "license": "",
         "choices": [
-            "$$x=\\arctan(k), \\$$ \\pi+\\arctan(k)$$",
-            "$$x=\\arctan(k), \\$$ 2\\pi+\\arctan(k)$$",
-            "$$x=\\arctan(k),\\-\\pi+\\arctan(k)$$",
-            "$$x=\\arctan(k), \\$$ $$\\pi-\\arctan(k)$$"
+            "$$x=\\arctan(k)$$, \\pi+\\arctan(k)$$",
+            "$$x=\\arctan(k)$$, 2\\pi+\\arctan(k)$$",
+            "$$x=\\arctan(k)$$, -\\pi+\\arctan(k)$$",
+            "$$x=\\arctan(k)$$, $$\\pi-\\arctan(k)$$"
         ]
     }
 ]

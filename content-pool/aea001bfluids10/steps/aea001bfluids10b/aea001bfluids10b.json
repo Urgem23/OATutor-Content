@@ -4,7 +4,7 @@
         "$$49.6$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the volume of iron, using its density as given in Table $$14.1$$? (give the numerical value only, volume in cm**3)",
+    "stepTitle": "What is the volume of iron, using its density as given in Table $$14.1$$ (in $$\\text{cm}**{3}$$)?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

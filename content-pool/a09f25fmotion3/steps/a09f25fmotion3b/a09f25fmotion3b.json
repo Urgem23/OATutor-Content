@@ -4,7 +4,7 @@
         "263% the speed of sound at sea level"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "Compare this with the speed of sound, which is $$343$$ $$\\frac{m}{s}$$ at sea level.",
+    "stepTitle": "Compare this with the speed of sound, which is $$343\\, \\tfrac{\\text{m}}{\\text{s}}$$ at sea level.",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},

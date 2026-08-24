@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Forces",
-        "text": "Andrea's force is directed due north, while Jennifer's force is at an angle of $$32$$ degrees east of north. We need to find the resultant force by combining these two forces.",
+        "text": "Andrea's force is directed due north, while Jennifer's force is at an angle of $$32**\\circ$$ east of north. We need to find the resultant force by combining these two forces.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -52,7 +52,7 @@
             "ace918bnlaws3b-h4"
         ],
         "title": "Finding the Resultant Force",
-        "text": "Use the Pythagorean theorem to find the magnitude of the resultant force: sqrt((north component)**2+(east component)**2).",
+        "text": "Use the Pythagorean theorem to find the magnitude of the resultant force: sqrt($$(northcomponent)**{2}$$+$$(eastcomponent)**{2}$$).",
         "variabilization": {},
         "oer": "openai",
         "license": ""

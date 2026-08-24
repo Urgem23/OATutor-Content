@@ -4,7 +4,7 @@
         "$$184$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What will it be at $$700$$ $$\\frac{km}{h}$$ at the same altitude? (give the numerical value only, pressure in mm Hg)",
+    "stepTitle": "What will it be at $$700\\, \\tfrac{\\text{km}}{\\text{hr}}$$ at the same altitude (in $$\\text{mm~Hg}$$)?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

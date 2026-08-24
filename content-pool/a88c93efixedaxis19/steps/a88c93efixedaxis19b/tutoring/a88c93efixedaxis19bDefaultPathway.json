@@ -16,7 +16,7 @@
             "a88c93efixedaxis19b-h1"
         ],
         "title": "Moment of Inertia for a Sphere",
-        "text": "The moment of inertia (I) for a uniform solid sphere is given by the formula $$I=\\frac{2}{5} M R^2$$, where M is the mass and R is the radius of the sphere.",
+        "text": "The moment of inertia $$I$$ for a uniform solid sphere is given by the formula $$I=(2/5)MR**{2}$$, $$where$$ $$M$$ is the mass and $$R$$ is the radius of the sphere.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -45,7 +45,7 @@
             "a88c93efixedaxis19b-h2"
         ],
         "title": "Calculate Moment of Inertia",
-        "text": "Using the formula $$I=\\frac{2}{5} M R^2$$, calculate the moment of inertia of the Earth.",
+        "text": "Using the formula $$I=(2/5)MR**{2}$$, $$calculate$$ $$the$$ $$moment$$ $$of$$ $$inertia$$ $$of$$ $$the$$ $$Earth$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

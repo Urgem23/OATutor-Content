@@ -33,7 +33,7 @@
             "a09f25fmotion1a-h2"
         ],
         "title": "Calculate the Initial Position",
-        "text": "At $$t=0$$, the car is $$2.0$$ km west of the traffic light. What is the position vector?",
+        "text": "At $$t=0$$, $$the$$ $$car$$ $$is$$ $$2.0\\, \\text{km}$$ west of the traffic light. What is the position vector?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -50,7 +50,7 @@
             "a09f25fmotion1a-h3"
         ],
         "title": "Calculate the Final Position",
-        "text": "At $$t=6.0$$ min, the car is $$5.0$$ km east of the traffic light. What is the position vector?",
+        "text": "At $$t=6.0\\, \\text{min}$$, $$the$$ $$car$$ $$is$$ $$5.0\\, \\text{km}$$ east of the traffic light. What is the position vector?",
         "variabilization": {},
         "oer": "openai",
         "license": ""

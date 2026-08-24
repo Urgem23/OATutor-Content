@@ -33,7 +33,7 @@
             "ace918bnlaws28a-h2"
         ],
         "title": "Calculate the Tangent",
-        "text": "Calculate the tangent of the angle: $$tan(3.20$$ degrees).",
+        "text": "Calculate the tangent of the angle: tan($$3.20**\\circ$$).",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -44,13 +44,13 @@
         "problemType": "TextBox",
         "answerType": "arithmetic",
         "hintAnswer": [
-            "$$tan(3.20)=\\frac{a}{9.81}$$"
+            "$$\\tan(3.20)=\\frac{a}{9.81}$$"
         ],
         "dependencies": [
             "ace918bnlaws28a-h3"
         ],
         "title": "Relate Tangent to Acceleration",
-        "text": "The tangent of the angle is equal to the acceleration of the car divided by the acceleration due to gravity $$(9.81$$ m/s\u00b2). Set up the equation: $$tan(3.20)=\\frac{a}{9.81}$$.",
+        "text": "The tangent of the angle is equal to the acceleration of the car divided by the acceleration due to gravity ($$9.81\\,\\tfrac{\\text{m}}{\\text{s}**{2}}$$). Set up the equation: $$\\tan(3.20)=\\frac{a}{9.81}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -67,7 +67,7 @@
             "ace918bnlaws28a-h4"
         ],
         "title": "Solve for Acceleration",
-        "text": "Solve the equation for the acceleration of the car: $$a=9.81tan\\left(3.2\\right)$$.",
+        "text": "Solve the equation for the acceleration of the car: $$a=\\tan(3.20)9.81$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

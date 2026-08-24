@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Moment of Inertia",
-        "text": "To calculate the angular momentum, we first need to determine the moment of inertia of the blades. Each blade can be modeled as a uniform rod rotating about one end. The formula for the moment of inertia of a rod about one end is $$I=\\frac{1}{3} m L^2$$. What is the moment of inertia for one blade?",
+        "text": "To calculate the angular momentum, we first need to determine the moment of inertia of the blades. Each blade can be modeled as a uniform rod rotating about one end. The formula for the moment of inertia of a rod about one end is $$I=(1/3)mL**{2}$$. $$What$$ $$is$$ $$the$$ $$moment$$ $$of$$ $$inertia$$ $$for$$ $$one$$ $$blade$$?",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -21,7 +21,7 @@
             "a949afaangmom13a-h1"
         ],
         "title": "Calculate Moment of Inertia for One Blade",
-        "text": "Using the formula $$I=\\frac{1}{3} m L^2$$, where $$m=6000$$ kg and $$L=30$$ $$m$$, calculate the moment of inertia for one blade.",
+        "text": "Using the formula $$I=(1/3)mL**{2}$$, $$where$$ $$\\, \\text{m}\\$\\$=6000$$ kg and $$L=30\\, \\text{m}$$, $$calculate$$ $$the$$ $$moment$$ $$of$$ $$inertia$$ $$for$$ $$one$$ $$blade$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -62,7 +62,7 @@
             "a949afaangmom13a-h4"
         ],
         "title": "Convert Rotation Rate to Radians per Second",
-        "text": "The rotation rate is given in revolutions per minute $$\\frac{rev}{min}$$. Convert this to radians per second $$\\frac{rad}{s}$$ using the conversion factor: $$1$$ rev $$=$$ $$2\\pi$$ rad and $$1$$ min $$=$$ $$60$$ s.",
+        "text": "The rotation rate is given in revolutions per minute $$\\frac{rev}{min}$$. Convert this to radians per second $$\\frac{rad}{s}$$ using the conversion factor: $$1\\,\\text{rev}=2$$*pi $$rad$$ $$and$$ $$1\\, \\text{min}=60\\, \\text{s}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -79,36 +79,7 @@
             "a949afaangmom13a-h5"
         ],
         "title": "Calculate Angular Velocity",
-        "text": "Convert $$20$$ $$\\frac{rev}{min}$$ to $$\\frac{rad}{s}$$ using the formula: angular velocity $$=$$ $$\\frac{20\\times2 \\pi}{60}$$.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a949afaangmom13a-h7",
-        "type": "hint",
-        "dependencies": [
-            "a949afaangmom13a-h6"
-        ],
-        "title": "Calculate Angular Momentum",
-        "text": "Now that you have the total moment of inertia and the angular velocity, use the formula for angular momentum: $$L=I \\omega$$, where I is the total moment of inertia and omega is the angular velocity.",
-        "variabilization": {},
-        "oer": "openai",
-        "license": ""
-    },
-    {
-        "id": "a949afaangmom13a-h8",
-        "type": "scaffold",
-        "problemType": "TextBox",
-        "answerType": "arithmetic",
-        "hintAnswer": [
-            "$$11300000$$"
-        ],
-        "dependencies": [
-            "a949afaangmom13a-h7"
-        ],
-        "title": "Final Calculation of Angular Momentum",
-        "text": "Using $$L=I \\omega$$, where $$I=540000$$ $$kg m^2$$ and $$omega=2.0944$$ $$\\frac{rad}{s}$$, calculate the angular momentum.",
+        "text": "Convert $$20\\, \\tfrac{\\text{rev}}{\\text{min}}$$ to $$\\frac{rad}{s}$$ using the formula: angular velocity $$=$$ $$\\frac{20\\times2 \\pi}{60}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

@@ -4,7 +4,7 @@
         "$$127000$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Calculate the Reynolds number for the flow of water through the nozzle, which has a radius of $$0.250$$ cm. (give the numerical value only)",
+    "stepTitle": "Calculate the Reynolds number for the flow of water through the nozzle, which has a radius of $$0.250\\, \\text{cm}$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

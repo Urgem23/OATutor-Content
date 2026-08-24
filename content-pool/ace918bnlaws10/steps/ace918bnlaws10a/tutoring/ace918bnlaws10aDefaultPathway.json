@@ -16,7 +16,7 @@
             "ace918bnlaws10a-h1"
         ],
         "title": "Newton's Second Law",
-        "text": "Newton's second law states that force is equal to mass times acceleration. The formula is $$F=m a$$.",
+        "text": "Newton's second law states that force is equal to mass times acceleration. The formula is $$F=ma$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -33,7 +33,7 @@
             "ace918bnlaws10a-h2"
         ],
         "title": "Calculate the Force",
-        "text": "Use the formula $$F=m a$$, where $$m$$ is the mass of the passenger and a is the acceleration of the sled.",
+        "text": "Use the formula $$F=ma$$, $$where$$ $$\\, \\text{m$$} $$is$$ $$the$$ $$mass$$ $$of$$ $$the$$ $$passenger$$ $$and$$ $$a$$ is the acceleration of the sled.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

@@ -16,7 +16,7 @@
             "a88c93efixedaxis22b-h1"
         ],
         "title": "Angular Velocity Conversion",
-        "text": "The angular velocity is given in revolutions per minute $$\\frac{rev}{min}$$. Convert this to radians per second $$\\frac{rad}{s}$$ using the conversion factor: $$1$$ rev $$=$$ $$2\\pi$$ rad and $$1$$ min $$=$$ $$60$$ s.",
+        "text": "The angular velocity is given in revolutions per minute $$\\frac{rev}{min}$$. Convert this to radians per second $$\\frac{rad}{s}$$ using the conversion factor: $$1\\,\\text{rev}=2$$*pi $$rad$$ $$and$$ $$1\\, \\text{min}=60\\, \\text{s}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -32,7 +32,7 @@
         "dependencies": [
             "a88c93efixedaxis22b-h2"
         ],
-        "title": "Calculate Angular Velocity at $$3.0$$ s",
+        "title": "Calculate Angular Velocity at $$3.0\\, \\text{s}$$",
         "text": "First, find the angular velocity at $$3.0$$ seconds. Use the formula: Angular Velocity $$=$$ Initial Angular Velocity + (Angular Acceleration * Time).",
         "variabilization": {},
         "oer": "openai",
@@ -61,7 +61,7 @@
         "dependencies": [
             "a88c93efixedaxis22b-h4"
         ],
-        "title": "Calculate Power at $$3.0$$ s",
+        "title": "Calculate Power at $$3.0\\, \\text{s}$$",
         "text": "Now, calculate the power at $$3.0$$ seconds using the formula: Power $$=$$ Torque * Angular Velocity.",
         "variabilization": {},
         "oer": "openai",

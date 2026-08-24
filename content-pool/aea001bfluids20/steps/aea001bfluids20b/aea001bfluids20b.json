@@ -4,7 +4,7 @@
         "$$35400$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Calculate the Reynolds number for the flow through the garden hose, which has a radius of $$0.900$$ cm. (give the numerical value only)",
+    "stepTitle": "Calculate the Reynolds number for the flow through the garden hose, which has a radius of $$0.900\\, \\text{cm}$$.",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

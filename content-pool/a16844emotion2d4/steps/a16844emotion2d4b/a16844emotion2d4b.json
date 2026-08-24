@@ -1,18 +1,17 @@
 {
     "id": "a16844emotion2d4b",
     "stepAnswer": [
-        "$$8.0\\hat{i}+6.0\\hat{k}$$ $$\\frac{m}{s}$$"
+        "$$(8.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{i}+(6.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{k}$$"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "What is the velocity of the particle at $$1.0$$ s?",
+    "stepTitle": "What is the velocity of the particle at $$1.0\\, \\text{s}$$?",
     "stepBody": "",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "$$8.0\\hat{i}+6.0\\hat{k}$$ $$\\frac{m}{s}$$",
     "choices": [
-        "$$8.0\\hat{i}+6.0\\hat{k}$$ $$\\frac{m}{s}$$",
-        "$$8.0\\hat{i}+6.0\\hat{j}$$ $$\\frac{m}{s}$$",
-        "$$4.0\\hat{i}+2.0\\hat{k}$$ $$\\frac{m}{s}$$",
-        "$$8.0\\hat{i}-3.0\\hat{j}+6.0\\hat{k}$$ $$\\frac{m}{s}$$"
+        "$$(8.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{i}+(6.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{k}$$",
+        "$$(8.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{i}+(6.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{j}$$",
+        "$$(4.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{i}+(2.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{k}$$",
+        "$$(8.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{i}-(3.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{j}+(6.0\\,\\tfrac{\\text{m}}{\\text{s}})\\hat{k}$$"
     ]
 }

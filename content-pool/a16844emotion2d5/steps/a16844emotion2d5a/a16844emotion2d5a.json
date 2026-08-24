@@ -1,7 +1,7 @@
 {
     "id": "a16844emotion2d5a",
     "stepAnswer": [
-        "$$17.32\\hat{i}+10.02\\hat{j}$$ km"
+        "$$(17.32\\,\\text{km})\\hat{i}+(10.02\\,\\text{km})\\hat{j}$$"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "What is its final displacement?",
@@ -9,9 +9,9 @@
     "answerType": "string",
     "variabilization": {},
     "choices": [
-        "$$17.32\\hat{i}+10.02\\hat{j}$$ km",
-        "$$17.32\\hat{i}+10.00\\hat{j}$$ km",
-        "$$10.02\\hat{i}+17.32\\hat{j}$$ km",
-        "$$17.32\\hat{i}+0.02\\hat{j}$$ km"
+        "$$(17.32\\,\\text{km})\\hat{i}+(10.02\\,\\text{km})\\hat{j}$$",
+        "$$(17.32\\,\\text{km})\\hat{i}+(10.00\\,\\text{km})\\hat{j}$$",
+        "$$(10.02\\,\\text{km})\\hat{i}+(17.32\\,\\text{km})\\hat{j}$$",
+        "$$(17.32\\,\\text{km})\\hat{i}+(0.02\\,\\text{km})\\hat{j}$$"
     ]
 }

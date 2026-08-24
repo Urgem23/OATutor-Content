@@ -4,7 +4,7 @@
         "$$2545$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the radius of the turn? (give the numerical value only, radius in meters)",
+    "stepTitle": "What is the radius of the turn (in $$\\text{m}\\$\\$)$$?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

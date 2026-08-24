@@ -4,7 +4,7 @@
         "$$0.08$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the flow rate in cubic meters per second? (give the numerical value only)",
+    "stepTitle": "What is the flow rate in cubic meters per second?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

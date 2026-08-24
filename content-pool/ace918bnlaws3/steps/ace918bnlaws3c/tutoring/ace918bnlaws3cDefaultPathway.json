@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Forces",
-        "text": "Andrea's force is directed due north, while Jennifer's force is at an angle of $$32$$ degrees east of north. To find the resultant direction, we need to consider both the magnitude and direction of these forces.",
+        "text": "Andrea's force is directed due north, while Jennifer's force is at an angle of $$32**\\circ$$ east of north. To find the resultant direction, we need to consider both the magnitude and direction of these forces.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -52,7 +52,7 @@
             "ace918bnlaws3c-h4"
         ],
         "title": "Finding the Direction",
-        "text": "Use the tangent function to find the angle of the resultant force: tan(theta) $$=$$ eastward component / northward component.",
+        "text": "Use the tangent function to find the angle of the resultant force: tan($$\\theta$$) $$=$$ eastward component / northward component.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -69,7 +69,7 @@
             "ace918bnlaws3c-h5"
         ],
         "title": "Calculate the Angle",
-        "text": "Calculate the angle using the arctangent function: theta $$=$$ arctan(eastward component / northward component).",
+        "text": "Calculate the angle using the arctangent function: $$\\theta$$ $$=$$ arctan(eastward component / northward component).",
         "variabilization": {},
         "oer": "openai",
         "license": ""

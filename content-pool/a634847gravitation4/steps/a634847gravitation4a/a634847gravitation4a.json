@@ -4,7 +4,7 @@
         "$$1.62$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "What is the acceleration due to gravity on the surface of the Moon? (give the numerical value only, acceleration in m/s**2)",
+    "stepTitle": "What is the acceleration due to gravity on the surface of the Moon (in $$\\tfrac{\\text{m}}{\\text{s}**{2}}$$)?",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

@@ -16,7 +16,7 @@
             "a56bd16newtonapps13a-h1"
         ],
         "title": "Identify the Forces",
-        "text": "The forces involved are:\\n$$1$$. Gravitational force acting downwards.\\n$$2$$. Normal force perpendicular to the pan.\\n$$3$$. Static friction force opposing the motion.",
+        "text": "The forces involved are:\\n$$1$$. Gravitational force acting downwards. $$2$$. Normal force perpendicular to the pan. $$3$$. Static friction force opposing the motion.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -28,7 +28,7 @@
             "a56bd16newtonapps13a-h2"
         ],
         "title": "Calculate the Angle",
-        "text": "The angle \\( $$\\theta$$ \\) at which the bacon starts to slide can be found using the height and length of the pan:\\n\\( $$\\theta$$ $$=$$ $$\\arcsin(\\frac{5.0}{23.5})$$ \\)",
+        "text": "The angle $$\\theta$$ at which the bacon starts to slide can be found using the height and length of the pan:\\n$$\\theta=\\arcsin(\\frac{5.0}{23.5})$$",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -40,7 +40,7 @@
             "a56bd16newtonapps13a-h3"
         ],
         "title": "Static Friction Formula",
-        "text": "The coefficient of static friction \\( \\mu_s \\) is given by:\\n\\( \\mu_s $$=$$ \\tan(\\theta) \\)",
+        "text": "The coefficient of static friction $$\\mu_s$$ is given by:\\n$$\\mu_s=\\tan(\\theta)$$",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -56,8 +56,8 @@
         "dependencies": [
             "a56bd16newtonapps13a-h3"
         ],
-        "title": "Calculate \\( $$\\theta$$ \\)",
-        "text": "Using the formula \\( $$\\theta$$ $$=$$ $$\\arcsin(\\frac{5.0}{23.5})$$ \\), calculate \\( $$\\theta$$ \\).",
+        "title": "Calculate $$\\theta$$",
+        "text": "Using the formula $$\\theta=\\arcsin(\\frac{5.0}{23.5})$$, $$calculate$$ $$\\theta$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -73,8 +73,8 @@
         "dependencies": [
             "a56bd16newtonapps13a-h5"
         ],
-        "title": "Calculate \\( \\mu_s \\)",
-        "text": "Using \\( \\mu_s $$=$$ \\tan(\\theta) \\), calculate the coefficient of static friction.",
+        "title": "Calculate $$\\mu_s$$",
+        "text": "Using $$\\mu_s=\\tan(\\theta)$$, $$calculate$$ $$the$$ $$coefficient$$ $$of$$ $$static$$ $$friction$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

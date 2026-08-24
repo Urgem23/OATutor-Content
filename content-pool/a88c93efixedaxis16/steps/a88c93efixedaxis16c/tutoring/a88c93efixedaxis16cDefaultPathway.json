@@ -16,7 +16,7 @@
             "a88c93efixedaxis16c-h1"
         ],
         "title": "Calculate Torque from Applied Force",
-        "text": "The torque due to the applied force is calculated using the formula: Torque $$=$$ Force * Radius. Use the given values: Force $$=$$ $$180$$ N and Radius $$=$$ $$0.280$$ $$m$$.",
+        "text": "The torque due to the applied force is calculated using the formula: Torque $$=$$ Force * Radius. Use the given values: Force $$=$$ $$180\\, \\text{N}$$ and Radius $$=$$ $$0.280\\, \\text{m}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -45,7 +45,7 @@
             "a88c93efixedaxis16c-h1"
         ],
         "title": "Calculate Torque from Frictional Force",
-        "text": "The torque due to the frictional force is calculated using the formula: Torque $$=$$ Force * Radius. Use the given values: Force $$=$$ $$20.0$$ N and Radius $$=$$ $$0.015$$ $$m$$.",
+        "text": "The torque due to the frictional force is calculated using the formula: Torque $$=$$ Force * Radius. Use the given values: Force $$=$$ $$20.0\\, \\text{N}$$ and Radius $$=$$ $$0.015\\, \\text{m}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -100,9 +100,11 @@
     {
         "id": "a88c93efixedaxis16c-h8",
         "type": "hint",
-        "dependencies": [],
+        "dependencies": [
+            "a88c93efixedaxis16c-h7"
+        ],
         "title": "Moment of Inertia",
-        "text": "The moment of inertia for a solid disk is given by the formula: I $$=$$ $$\\frac{1}{2}$$ * M * $$R^2$$. Use the given values: M $$=$$ $$75.0$$ kg and R $$=$$ $$0.280$$ $$m$$.",
+        "text": "The moment of inertia for a solid disk is given by the formula: $$I=(1/2)MR**{2}$$. $$ \\cup se$$ $$the$$ $$given$$ $$values$$: $$M=75.0\\, \\text{kg}$$ and $$R=0.280\\, \\text{m}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -119,7 +121,7 @@
             "a88c93efixedaxis16c-h8"
         ],
         "title": "Calculate Moment of Inertia",
-        "text": "Calculate the moment of inertia using the formula: I $$=$$ $$\\frac{1}{2}$$ * M * $$R^2$$.",
+        "text": "Calculate the moment of inertia using the formula: $$I=(1/2)MR**{2}$$.",
         "variabilization": {},
         "oer": "openai",
         "license": ""

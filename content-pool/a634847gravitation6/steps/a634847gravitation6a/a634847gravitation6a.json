@@ -4,7 +4,7 @@
         "$$11.6$$"
     ],
     "problemType": "TextBox",
-    "stepTitle": "Find the acceleration due to gravity at Saturn's surface. (give the numerical value only, acceleration in m/s**2)",
+    "stepTitle": "Find the acceleration due to gravity at Saturn's surface (in $$\\tfrac{\\text{m}}{\\text{s}**{2}}$$).",
     "stepBody": "",
     "answerType": "arithmetic",
     "variabilization": {},

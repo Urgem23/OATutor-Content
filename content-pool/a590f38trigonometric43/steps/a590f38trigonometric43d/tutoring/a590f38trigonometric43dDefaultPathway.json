@@ -20,7 +20,7 @@
         "dependencies": [
             "a590f38trigonometric43d-h1"
         ],
-        "title": "Equation $$$$ after isolating $$\\sin(x)$$",
+        "title": "Equation $$after$$ $$isolating$$ $$\\sin(x)$$",
         "text": "What is the equation after isolating $$\\sin(x)$$?",
         "variabilization": {},
         "oer": "",
@@ -56,7 +56,7 @@
             "a590f38trigonometric43d-h2"
         ],
         "title": "First solution for $$\\sin(x)=\\frac{1}{2}$$",
-        "text": "What is the first angle in $$(0, \\$$ $$2\\pi)$$ where $$\\sin(x)=\\frac{1}{2}$$?",
+        "text": "What is the first angle in $$(0$$, $$2\\pi)$$ where $$\\sin(x)=\\frac{1}{2}$$?",
         "variabilization": {},
         "oer": "",
         "license": ""

@@ -28,7 +28,7 @@
             "abaea60linmom2a-h2"
         ],
         "title": "Converting Time Period to Seconds",
-        "text": "Convert the time period from days to seconds to use in the velocity formula. Remember, $$1$$ day $$=$$ $$24$$ hours, $$1$$ hour $$=$$ $$60$$ minutes, and $$1$$ minute $$=$$ $$60$$ seconds.",
+        "text": "Convert the time period from days to seconds to use in the velocity formula.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -45,7 +45,7 @@
             "abaea60linmom2a-h3"
         ],
         "title": "Calculate Earth's Velocity",
-        "text": "Using the formula velocity $$=$$ $$\\frac{2\\pi radius}{time}$$ period, calculate Earth's velocity. Use radius $$=$$ $$1.5\\times{10}^{11}$$ $$m$$ and time period in seconds.",
+        "text": "Using the formula velocity $$=$$ $$\\frac{2\\pi radius}{time}$$ period, calculate Earth's velocity. Use radius $$=$$ $$1.50\\times10**{11}\\,\\text{m}$$ and time period in seconds.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
@@ -62,7 +62,7 @@
             "abaea60linmom2a-h4"
         ],
         "title": "Calculate Earth's Linear Momentum",
-        "text": "Now that you have Earth's velocity, use the formula momentum $$=$$ mass * velocity to find Earth's linear momentum. Use mass $$=$$ $$5.97\\times{10}^{24}$$ kg and velocity from the previous step.",
+        "text": "Now that you have Earth's velocity, use the formula momentum $$=$$ mass * velocity to find Earth's linear momentum. Use mass $$=$$ $$5.97\\times10**{24}\\,\\text{kg}$$ and velocity from the previous step.",
         "variabilization": {},
         "oer": "openai",
         "license": ""
