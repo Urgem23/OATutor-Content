@@ -3466,7 +3466,7 @@
                     "using_the_vertical_line_test_in_openstax_precalc": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3480,7 +3480,7 @@
                     "finding_domain_and_ranges": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3493,7 +3493,7 @@
                     "rates_of_change_and_behavior_of_graphs": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3506,7 +3506,7 @@
                     "composition_of_functions_in_openstax_precalc": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3519,7 +3519,7 @@
                     "transformation_of_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3532,7 +3532,7 @@
                     "absolute_value_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3549,7 +3549,7 @@
                     "verifying_that_two_functions_are_inverse_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3562,7 +3562,7 @@
                     "linear_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3575,7 +3575,7 @@
                     "graph_of_linear_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3588,7 +3588,7 @@
                     "modeling_with_linear_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3601,7 +3601,7 @@
                     "fitting_linear_models_to_data": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3614,7 +3614,7 @@
                     "complex_numbers": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3627,7 +3627,7 @@
                     "quadratic_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3640,7 +3640,7 @@
                     "power_functions_and_polynomial_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3653,7 +3653,7 @@
                     "graphs_of_polynomial_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3666,7 +3666,7 @@
                     "dividing_polynomials": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3687,7 +3687,7 @@
                     "using_the_factor_theorem_to_solve_a_polynomial_equation": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3700,7 +3700,7 @@
                     "rational_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3713,7 +3713,7 @@
                     "inverses_and_radical_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3730,7 +3730,7 @@
                     "writing_algebra_variation_relationships": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3743,7 +3743,7 @@
                     "exponential_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3756,7 +3756,7 @@
                     "graphs_of_exponential_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3769,7 +3769,7 @@
                     "logarithmic_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3782,7 +3782,7 @@
                     "graphs_of_logarithmic_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3795,7 +3795,7 @@
                     "logarithmic_properties": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3808,7 +3808,7 @@
                     "exponential_and_logarithmic_equations": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3821,7 +3821,7 @@
                     "exponential_and_logarithmic_models": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3834,7 +3834,7 @@
                     "fitting_exponential_models_to_data": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3847,7 +3847,7 @@
                     "angles": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3867,7 +3867,7 @@
                     "using_reference_angles_to_find_coordinates": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3880,7 +3880,7 @@
                     "the_other_trigonometric_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3893,7 +3893,7 @@
                     "right_triangle_trigonometry": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3907,7 +3907,7 @@
                     "investigating_sinusoidal_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3920,7 +3920,7 @@
                     "graphs_of_the_other_trigonometric_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3933,7 +3933,7 @@
                     "simplifying_and_verifying_trigonometric_identities": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3946,7 +3946,7 @@
                     "sum_and_difference_identities": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3961,7 +3961,7 @@
                     "half_angle": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3974,7 +3974,7 @@
                     "sum_to_product_and_product_to_sum_formulas": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -3987,7 +3987,7 @@
                     "solving_trigonometric_equations": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4000,7 +4000,7 @@
                     "modeling_with_trigonometric_functions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4013,7 +4013,7 @@
                     "non_right_triangles:_law_of_sines": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4031,7 +4031,7 @@
                     "using_trigonometry_in_the_real_world": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4044,7 +4044,7 @@
                     "polar_coordinates": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4057,7 +4057,7 @@
                     "polar_coordinates:_graphs": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4075,7 +4075,7 @@
                     "writing_complex_numbers_in_polar_form": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4088,7 +4088,7 @@
                     "parametric_equations": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4101,7 +4101,7 @@
                     "vectors": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4114,7 +4114,7 @@
                     "systems_of_linear_equations:_two_variables": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4127,7 +4127,7 @@
                     "systems_of_linear_equations___three_variables": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4140,7 +4140,7 @@
                     "systems_of_nonlinear_equations": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4153,7 +4153,7 @@
                     "partial_fractions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4166,7 +4166,7 @@
                     "matrices_and_matrix_operations": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4179,7 +4179,7 @@
                     "solving_systems_with_gaussian_elimination": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4196,7 +4196,7 @@
                     "solving_a_system_of_linear_equations_using_the_inverse_of_a_matrix": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4209,7 +4209,7 @@
                     "solving_systems_with_cramer's_rule": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4222,7 +4222,7 @@
                     "the_ellipse": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4235,7 +4235,7 @@
                     "the_parabola": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4250,7 +4250,7 @@
                     "identifying_nondegenerate_conics_in_general_form": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4263,7 +4263,7 @@
                     "conic_sections_in_polar_coordinates": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4276,7 +4276,7 @@
                     "sequences_and_their_notations": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4289,7 +4289,7 @@
                     "arithmetic_sequences": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4302,7 +4302,7 @@
                     "geometric_sequences": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4315,7 +4315,7 @@
                     "series_and_their_notations": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4328,7 +4328,7 @@
                     "counting_principles": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4342,7 +4342,7 @@
                     "extensions": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4355,7 +4355,7 @@
                     "probability": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4368,7 +4368,7 @@
                     "finding_limits:_numerical_and_graphical_approaches": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4381,7 +4381,7 @@
                     "finding_limits:_properties_of_limits": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4394,7 +4394,7 @@
                     "continuity": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             },
             {
@@ -4407,12 +4407,12 @@
                     "derivatives": 0.85
                 },
                 "chat_prompt": "PROMPT-precalc-v1a.txt",
-                "chat_penalty_mode": "Never",
+                "chat_penalty_mode": "OnOpen",
                 "hint_penalty_mode": "OnOpen"
             }
         ],
         "chat_prompt": "PROMPT-precalc-v1a.txt",
-        "chat_penalty_mode": "Never",
+        "chat_penalty_mode": "OnOpen",
         "hint_penalty_mode": "OnOpen"
     },
     {
