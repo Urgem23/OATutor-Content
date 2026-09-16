@@ -1,5 +1,26 @@
 [
     {
+        "courseName": "Python Course",
+        "courseOER": "",
+        "courseLicense": "",
+        "lessons": [
+            {
+                "id": "py_lesson_1",
+                "name": "Python Basics: Output, Variables, Numbers, Strings",
+                "topics": "",
+                "allowRecycle": true,
+                "learningObjectives": {
+                 "print_statements": 0.85,
+                    "create_variables": 0.85,
+                    "arithmetic_operator_precedence": 0.85,
+                    "string_basics": 0.85
+                   
+                }
+            }
+        ]
+    },
+    
+    {
         "courseName": "Data 8 Discussion Worksheets",
         "language": "en",
         "courseOER": "https://drive.google.com/file/d/1WXuGyAe3OtZTxrddc6aqCVoiR8KpkFSV/view?usp=drive_link",
