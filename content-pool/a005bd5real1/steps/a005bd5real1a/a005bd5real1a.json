@@ -1,15 +1,17 @@
 {
     "id": "a005bd5real1a",
+    
     "stepAnswer": [
-        "f(g(x))"
+        "my_name"
     ],
     "problemType": "MultipleChoice",
-    "stepTitle": "What is the composition of two functions, f\u2218g?",
-    "stepBody": "",
+    "stepTitle": "Identify a valid identifier",
+    "stepBody": "Choose the valid variable name in Python.",
     "answerType": "string",
-    "variabilization": {},
     "choices": [
-        "g(f(x))",
-        "f(g(x))"
+        "2cats",
+        "my-name",
+        "my_name",
+        "class"
     ]
 }
