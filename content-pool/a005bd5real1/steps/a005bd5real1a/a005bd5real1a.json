@@ -1,17 +1,18 @@
 {
     "id": "a005bd5real1a",
     
-    "stepAnswer": [
-        "my_name"
+   "stepAnswer": [
+        "total = 3",
+        "total = total + 4",
+        "print(total)"
     ],
-    "problemType": "MultipleChoice",
-    "stepTitle": "Identify a valid identifier",
-    "stepBody": "Choose the valid variable name in Python.",
-    "answerType": "string",
+    "problemType": "DragDrop",
+    "stepTitle": "Reorder the code lines",
+    "stepBody": "Arrange the lines into a valid program that prints 7.",
+    "answerType": "DragDrop",
     "choices": [
-        "2cats",
-        "my-name",
-        "my_name",
-        "class"
+        "print(total)",
+        "total = 3",
+        "total = total + 4"
     ]
 }

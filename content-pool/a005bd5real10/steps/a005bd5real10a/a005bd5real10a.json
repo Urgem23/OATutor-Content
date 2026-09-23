@@ -1,16 +1,11 @@
 {
     "id": "a005bd5real10a",
     "stepAnswer": [
-        "$$(-\\infty,\\infty)$$"
+        "1\n2\n3"
     ],
-    "problemType": "MultipleChoice",
-    "stepTitle": "What is the domain of (g\u2218f)(x)?",
-    "stepBody": "",
+    "problemType": "Code",
+    "stepTitle": "Target output (three lines)",
+    "stepBody": "Produce exactly three lines: 1 then 2 then 3 using a for loop.",
     "answerType": "string",
-    "variabilization": {},
-    "answerLatex": "$$(-\\infty,\\infty)$$",
-    "choices": [
-        "$$(-\\infty,\\infty)$$",
-        "$$(-\\infty,\\infty]$$"
-    ]
+    "choices": []
 }
